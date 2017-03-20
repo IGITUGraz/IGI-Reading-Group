@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
