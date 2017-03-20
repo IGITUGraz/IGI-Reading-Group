@@ -17,6 +17,7 @@ TBA
 
 
 ## Past meetings
+
 | Date  | Paper | Moderator |
 | ----- | ----- | --------- |
 | **02.12.2016** | Nessler, Bernhard, et al. "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity." PLoS Comput Biol 9.4 (2013): e1003037. | Arjun |
