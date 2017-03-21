@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-dinky
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
