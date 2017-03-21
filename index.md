@@ -1,6 +1,5 @@
 ---
 title: IGI Reading Group
-layout: page
 ---
 
 # IGI Reading Group
