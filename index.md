@@ -20,6 +20,7 @@ TBA
 
 | Date  | Paper | Moderator |
 | ----- | ----- | --------- |
+| **27.03.2017** | David M. Blei, and Michael I. Jordan. "Variational inference for Dirichlet process mixtures." Bayesian analysis 1.1 (2006): 121-143. | Arjun |
 | **02.12.2016** | Nessler, Bernhard, et al. "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity." PLoS Comput Biol 9.4 (2013): e1003037. | Arjun |
 | **18.11.2016** | Nithianantharajah, Jess, et al. "Synaptic scaffold evolution generated components of vertebrate cognitive complexity." Nature neuroscience 16.1 (2013): 16-24. | Guillaume |
 | **18.11.2016** | Carlisle, Holly J., et al. "Opposing effects of PSD‐93 and PSD‐95 on long‐term potentiation and spike timing‐dependent plasticity." The Journal of physiology 586.24 (2008): 5885-5900. | Guillaume |
