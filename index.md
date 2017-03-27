@@ -5,22 +5,25 @@ title: IGI Reading Group
 # IGI Reading Group
 The IGI Reading Group is the informal reading group a.k.a Journal Club of [IGI](http://www.igi.tugraz.at) where we meet once a week and discuss papers that are related to our research, of general interest, or just some paper one of us found cool.
 
-For the Summer Semester 2017 this happens on *TBA*
+For the Summer Semester 2017 this happens on Tuedays 1500h.
 
 in the IGI Library (Or Seminar room if the group becomes larger)
 
 ## Upcoming meetings
-TBA
+| Date  | Paper | Moderator |
+| ----- | ----- | --------- |
+| **28.03.2017** | Blei, David M., and Michael I. Jordan. "Variational inference for Dirichlet process mixtures." Bayesian analysis 1.1 (2006): 121-143. | Arjun |
+| | Sethuraman, Jayaram. "A constructive definition of Dirichlet priors." Statistica sinica (1994): 639-650. | |
+| | Blackwell, David, and James B. MacQueen. "Ferguson distributions via Pólya urn schemes." The annals of statistics (1973): 353-355. | |
+| | Ferguson, Thomas S. "A Bayesian analysis of some nonparametric problems." The annals of statistics (1973): 209-230. | |
 
 ## Wishlist
 * Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.
-
 
 ## Past meetings
 
 | Date  | Paper | Moderator |
 | ----- | ----- | --------- |
-| **28.03.2017** | David M. Blei, and Michael I. Jordan. "Variational inference for Dirichlet process mixtures." Bayesian analysis 1.1 (2006): 121-143. | Arjun |
 | **02.12.2016** | Nessler, Bernhard, et al. "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity." PLoS Comput Biol 9.4 (2013): e1003037. | Arjun |
 | **18.11.2016** | Nithianantharajah, Jess, et al. "Synaptic scaffold evolution generated components of vertebrate cognitive complexity." Nature neuroscience 16.1 (2013): 16-24. | Guillaume |
 | **18.11.2016** | Carlisle, Holly J., et al. "Opposing effects of PSD‐93 and PSD‐95 on long‐term potentiation and spike timing‐dependent plasticity." The Journal of physiology 586.24 (2008): 5885-5900. | Guillaume |
