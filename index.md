@@ -10,6 +10,7 @@ For the Summer Semester 2017 this happens on Tuedays 1500h.
 in the IGI Library (Or Seminar room if the group becomes larger)
 
 ## Upcoming meetings
+
 | Date  | Paper | Moderator |
 | ----- | ----- | --------- |
 | **28.03.2017** | Blei, David M., and Michael I. Jordan. "Variational inference for Dirichlet process mixtures." Bayesian analysis 1.1 (2006): 121-143. | Arjun |
