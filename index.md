@@ -13,10 +13,9 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 
 | Date           | Moderator | Paper                                                                                                                                 |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **28.03.2017** | Arjun     | Blei, David M., and Michael I. Jordan. "Variational inference for Dirichlet process mixtures." Bayesian analysis 1.1 (2006): 121-143. |
-|                |           | Sethuraman, Jayaram. "A constructive definition of Dirichlet priors." Statistica sinica (1994): 639-650.                              |
-|                |           | Blackwell, David, and James B. MacQueen. "Ferguson distributions via Pólya urn schemes." The annals of statistics (1973): 353-355.    |
-|                |           | Ferguson, Thomas S. "A Bayesian analysis of some nonparametric problems." The annals of statistics (1973): 209-230.                   |
+|**04.04.2017**| Guillaume and David | Variational Inference |
+||| Mnih, Andriy, and Karol Gregor. "Neural variational inference and learning in belief networks." arXiv preprint arXiv:1402.0030 (2014). |
+
 
 ## Wishlist
 * Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.
@@ -25,6 +24,11 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **28.03.2017** | Arjun | Dirichlet Distributions |
+|  |      | Blei, David M., and Michael I. Jordan. "Variational inference for Dirichlet process mixtures." Bayesian analysis 1.1 (2006): 121-143. |
+|                |           | Sethuraman, Jayaram. "A constructive definition of Dirichlet priors." Statistica sinica (1994): 639-650.                              |
+|                |           | Blackwell, David, and James B. MacQueen. "Ferguson distributions via Pólya urn schemes." The annals of statistics (1973): 353-355.    |
+|                |           | Ferguson, Thomas S. "A Bayesian analysis of some nonparametric problems." The annals of statistics (1973): 209-230.                   |
 | **02.12.2016** | Arjun     | Nessler, Bernhard, et al. "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity." PLoS Comput Biol 9.4 (2013): e1003037.                                   
 | **18.11.2016** | Guillaume | Nithianantharajah, Jess, et al. "Synaptic scaffold evolution generated components of vertebrate cognitive complexity." Nature neuroscience 16.1 (2013): 16-24.                                                 
 |                |           | Carlisle, Holly J., et al. "Opposing effects of PSD‐93 and PSD‐95 on long‐term potentiation and spike timing‐dependent plasticity." The Journal of physiology 586.24 (2008): 5885-5900.                        
