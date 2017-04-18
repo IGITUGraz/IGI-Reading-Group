@@ -27,6 +27,7 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 * **IGI**: Nessler, Bernhard, et al. "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity." PLoS Comput Biol 9.4 (2013): e1003037.
 * **IDI**: Habenschuss, Stefan, Zeno Jonke, and Wolfgang Maass. "Stochastic computations in cortical microcircuit models." PLoS Comput Biol 9.11 (2013): e1003311.
 * Constantinople, Christine M., and Randy M. Bruno. "Deep cortical layers are activated directly by thalamus." Science 340.6140 (2013): 1591-1594.
+* Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016).
 
 ## Past meetings
 
