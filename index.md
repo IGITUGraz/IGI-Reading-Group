@@ -13,17 +13,29 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 
 | Date           | Moderator | Paper                                                                                                                                 |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-|**04.04.2017**| Guillaume and David | Variational Inference |
-||| Mnih, Andriy, and Karol Gregor. "Neural variational inference and learning in belief networks." arXiv preprint arXiv:1402.0030 (2014). |
+| 25.04.2017 | Guillaume | Salimans, Tim, et al. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning." arXiv preprint arXiv:1703.03864 (2017). |
+| 25.04.2017 | Anand | Whittington, James CR, and Rafal Bogacz. "An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity." Neural Computation (2017). |
+| 25.04.2017 | Arjun | Orhan, A. Emin, and Wei Ji Ma. "Efficient Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback." arXiv preprint arXiv:1601.03060 (2016).
+APA	|
+| 25.04.2017 | David | Schiess, Mathieu, Robert Urbanczik, and Walter Senn. "Somato-dendritic synaptic plasticity and error-backpropagation in active dendrites." PLoS Comput Biol 12.2 (2016): e1004638. |
+| ?? | Guillaume | Lillicrap, Timothy P., et al. "Random synaptic feedback weights support error backpropagation for deep learning." Nature Communications 7 (2016). |
+
 
 
 ## Wishlist
-* Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.
+* Lotter, William, Gabriel Kreiman, and David Cox. "Deep predictive coding networks for video prediction and unsupervised learning." arXiv preprint arXiv:1605.08104 (2016).
+* 
 
 ## Past meetings
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|**18.04.2017**| Anand | Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. |
+|**14.04.2017**| David | Variational Auto-encoders |
+||| Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). |
+
+|**04.04.2017**| Guillaume and David | Variational Inference |
+||| Mnih, Andriy, and Karol Gregor. "Neural variational inference and learning in belief networks." arXiv preprint arXiv:1402.0030 (2014). |
 | **28.03.2017** | Arjun | Dirichlet Distributions |
 |  |      | Blei, David M., and Michael I. Jordan. "Variational inference for Dirichlet process mixtures." Bayesian analysis 1.1 (2006): 121-143. |
 |                |           | Sethuraman, Jayaram. "A constructive definition of Dirichlet priors." Statistica sinica (1994): 639-650.                              |
