@@ -25,7 +25,7 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 * LDA: Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." Journal of machine Learning research 3.Jan (2003): 993-1022.
 * Zoph, Barret, and Quoc V. Le. "Neural architecture search with reinforcement learning." arXiv preprint arXiv:1611.01578 (2016).
 * **IGI**: Nessler, Bernhard, et al. "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity." PLoS Comput Biol 9.4 (2013): e1003037.
-* **IDI**: Habenschuss, Stefan, Zeno Jonke, and Wolfgang Maass. "Stochastic computations in cortical microcircuit models." PLoS Comput Biol 9.11 (2013): e1003311.
+* **IGI**: Habenschuss, Stefan, Zeno Jonke, and Wolfgang Maass. "Stochastic computations in cortical microcircuit models." PLoS Comput Biol 9.11 (2013): e1003311.
 * Constantinople, Christine M., and Randy M. Bruno. "Deep cortical layers are activated directly by thalamus." Science 340.6140 (2013): 1591-1594.
 * Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016).
 
@@ -36,7 +36,6 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 |**18.04.2017**| Anand | Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. |
 |**14.04.2017**| David | Variational Auto-encoders |
 ||| Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). |
-
 |**04.04.2017**| Guillaume and David | Variational Inference |
 ||| Mnih, Andriy, and Karol Gregor. "Neural variational inference and learning in belief networks." arXiv preprint arXiv:1402.0030 (2014). |
 | **28.03.2017** | Arjun | Dirichlet Distributions |
