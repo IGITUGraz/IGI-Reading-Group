@@ -13,11 +13,7 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 
 | Date           | Moderator | Paper                                                                                                                                 |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.04.2017 | Guillaume | Salimans, Tim, et al. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning." arXiv preprint arXiv:1703.03864 (2017). |
-| 25.04.2017 | Anand | Whittington, James CR, and Rafal Bogacz. "An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity." Neural Computation (2017). |
-| 25.04.2017 | Arjun | Orhan, A. Emin, and Wei Ji Ma. "Efficient Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback." arXiv preprint arXiv:1601.03060 (2016). APA	|
-| 25.04.2017 | David | Schiess, Mathieu, Robert Urbanczik, and Walter Senn. "Somato-dendritic synaptic plasticity and error-backpropagation in active dendrites." PLoS Comput Biol 12.2 (2016): e1004638. |
-| ?? | Guillaume | Lillicrap, Timothy P., et al. "Random synaptic feedback weights support error backpropagation for deep learning." Nature Communications 7 (2016). |
+| 13.06.2017 | Guillaume | Lillicrap, Timothy P., et al. "Random synaptic feedback weights support error backpropagation for deep learning." Nature Communications 7 (2016). |
 
 
 ## Wishlist
@@ -33,6 +29,10 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **25.04.2017** | Guillaume | Salimans, Tim, et al. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning." arXiv preprint arXiv:1703.03864 (2017). |
+| **25.04.2017** | Anand | Whittington, James CR, and Rafal Bogacz. "An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity." Neural Computation (2017). |
+| **25.04.2017** | Arjun | Orhan, A. Emin, and Wei Ji Ma. "Efficient Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback." arXiv preprint arXiv:1601.03060 (2016). APA	|
+| **25.04.2017** | David | Schiess, Mathieu, Robert Urbanczik, and Walter Senn. "Somato-dendritic synaptic plasticity and error-backpropagation in active dendrites." PLoS Comput Biol 12.2 (2016): e1004638. |
 |**18.04.2017**| Anand | Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. |
 |**14.04.2017**| David | Variational Auto-encoders |
 ||| Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). |
