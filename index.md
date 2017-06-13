@@ -13,7 +13,6 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 
 | Date           | Moderator | Paper                                                                                                                                 |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-
 | ?? | Anand | Rao, Rajesh PN, and Dana H. Ballard. "Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects." Nature neuroscience 2.1 (1999): 79-87. |
 | ?? | Anand | PredNet: Lotter, William, Gabriel Kreiman, and David Cox. "Deep predictive coding networks for video prediction and unsupervised learning." arXiv preprint arXiv:1605.08104 (2016). |
 | ?? | Michael M. | Dosovitskiy, Alexey, and Vladlen Koltun. "Learning to act by predicting the future." arXiv preprint arXiv:1611.01779 (2016). |
