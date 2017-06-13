@@ -13,7 +13,7 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 
 | Date           | Moderator | Paper                                                                                                                                 |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 13.06.2017 | Guillaume | Lillicrap, Timothy P., et al. "Random synaptic feedback weights support error backpropagation for deep learning." Nature Communications 7 (2016). |
+|  | Michael M. | Dosovitskiy, Alexey, and Vladlen Koltun. "Learning to act by predicting the future." arXiv preprint arXiv:1611.01779 (2016). |
 
 
 ## Wishlist
@@ -29,6 +29,7 @@ in the IGI Library (Or Seminar room if the group becomes larger)
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **13.06.2017** | Guillaume | Lillicrap, Timothy P., et al. "Random synaptic feedback weights support error backpropagation for deep learning." Nature Communications 7 (2016). |
 | **25.04.2017** | Guillaume | Salimans, Tim, et al. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning." arXiv preprint arXiv:1703.03864 (2017). |
 | **25.04.2017** | Anand | Whittington, James CR, and Rafal Bogacz. "An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity." Neural Computation (2017). |
 | **25.04.2017** | Arjun | Orhan, A. Emin, and Wei Ji Ma. "Efficient Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback." arXiv preprint arXiv:1601.03060 (2016). APA	|
