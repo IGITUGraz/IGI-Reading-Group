@@ -13,25 +13,27 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                 |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **26.07.2017** | Anand | Spratling, M. W. "A review of predictive coding algorithms." Brain and cognition 112 (2017): 92-97. |
-| **26.07.2017** | Anand | Rao, Rajesh PN, and Dana H. Ballard. "Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects." Nature neuroscience 2.1 (1999): 79-87. |
-| **26.07.2017** | Anand | PredNet: Lotter, William, Gabriel Kreiman, and David Cox. "Deep predictive coding networks for video prediction and unsupervised learning." arXiv preprint arXiv:1605.08104 (2016). |
-| **26.07.2017** | Michael M. | Dosovitskiy, Alexey, and Vladlen Koltun. "Learning to act by predicting the future." arXiv preprint arXiv:1611.01779 (2016). |
+| **02.08.2017** | David | Friston's free enery models |
 
 
 
 ## Wishlist
-* LDA: Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." Journal of machine Learning research 3.Jan (2003): 993-1022.
 * Zoph, Barret, and Quoc V. Le. "Neural architecture search with reinforcement learning." arXiv preprint arXiv:1611.01578 (2016).
 * **IGI**: Nessler, Bernhard, et al. "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity." PLoS Comput Biol 9.4 (2013): e1003037.
 * **IGI**: Habenschuss, Stefan, Zeno Jonke, and Wolfgang Maass. "Stochastic computations in cortical microcircuit models." PLoS Comput Biol 9.11 (2013): e1003311.
 * Constantinople, Christine M., and Randy M. Bruno. "Deep cortical layers are activated directly by thalamus." Science 340.6140 (2013): 1591-1594.
 * Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016).
+* LDA: Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." Journal of machine Learning research 3.Jan (2003): 993-1022.
+
 
 ## Past meetings
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **26.07.2017** | Anand | Spratling, M. W. "A review of predictive coding algorithms." Brain and cognition 112 (2017): 92-97. |
+| **26.07.2017** | Anand | Rao, Rajesh PN, and Dana H. Ballard. "Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects." Nature neuroscience 2.1 (1999): 79-87. |
+| **26.07.2017** | Anand | PredNet: Lotter, William, Gabriel Kreiman, and David Cox. "Deep predictive coding networks for video prediction and unsupervised learning." arXiv preprint arXiv:1605.08104 (2016). |
+| **26.07.2017** | Michael M. | Dosovitskiy, Alexey, and Vladlen Koltun. "Learning to act by predicting the future." arXiv preprint arXiv:1611.01779 (2016). |
 | **13.06.2017** | Guillaume | Lillicrap, Timothy P., et al. "Random synaptic feedback weights support error backpropagation for deep learning." Nature Communications 7 (2016). |
 | **25.04.2017** | Guillaume | Salimans, Tim, et al. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning." arXiv preprint arXiv:1703.03864 (2017). |
 | **25.04.2017** | Anand | Whittington, James CR, and Rafal Bogacz. "An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity." Neural Computation (2017). |
