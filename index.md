@@ -30,6 +30,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **02.08.2017** | David | Friston F. and Kiebel S. "Predictive coding under the free-energy principle." Phil. Trans. R. Soc. B (2009) 364, 1211–1221. |
 | **26.07.2017** | Anand | Spratling, M. W. "A review of predictive coding algorithms." Brain and cognition 112 (2017): 92-97. |
 |   |   | Rao, Rajesh PN, and Dana H. Ballard. "Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects." Nature neuroscience 2.1 (1999): 79-87. |
 |   |   | PredNet: Lotter, William, Gabriel Kreiman, and David Cox. "Deep predictive coding networks for video prediction and unsupervised learning." arXiv preprint arXiv:1605.08104 (2016). |
