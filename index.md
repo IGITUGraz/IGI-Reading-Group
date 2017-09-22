@@ -13,7 +13,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                 |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **22.09.2017** | Jian | Dvorkin R, Ziv NE (2016) Relative Contributions of Specific Activity Histories and Spontaneous Processes to Size Remodeling of Glutamatergic Synapses. PLoS Biol 14(10): e1002572. https://doi.org/10.1371/journal.pbio.1002572 |
+| **?** | Jian | Dvorkin R, Ziv NE (2016) Relative Contributions of Specific Activity Histories and Spontaneous Processes to Size Remodeling of Glutamatergic Synapses. PLoS Biol 14(10): e1002572. https://doi.org/10.1371/journal.pbio.1002572 |
 |  |  | Rubinski A, Ziv NE (2015) Remodeling and Tenacity of Inhibitory Synapses: Relationships with Network Activity and Neighboring Excitatory Synapses. PLoS Comput Biol 11(11): e1004632. https://doi.org/10.1371/journal.pcbi.1004632 |
 |  |  | Statman A, Kaufman M, Minerbi A, Ziv NE, Brenner N (2014) Synaptic Size Dynamics as an Effectively Stochastic Process. PLoS Comput Biol 10(10): e1003846. https://doi.org/10.1371/journal.pcbi.1003846 |
 
