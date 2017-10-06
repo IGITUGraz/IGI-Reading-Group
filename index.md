@@ -13,9 +13,19 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                 |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **?** | Jian | Dvorkin R, Ziv NE (2016) Relative Contributions of Specific Activity Histories and Spontaneous Processes to Size Remodeling of Glutamatergic Synapses. PLoS Biol 14(10): e1002572. https://doi.org/10.1371/journal.pbio.1002572 |
-|  |  | Rubinski A, Ziv NE (2015) Remodeling and Tenacity of Inhibitory Synapses: Relationships with Network Activity and Neighboring Excitatory Synapses. PLoS Comput Biol 11(11): e1004632. https://doi.org/10.1371/journal.pcbi.1004632 |
-|  |  | Statman A, Kaufman M, Minerbi A, Ziv NE, Brenner N (2014) Synaptic Size Dynamics as an Effectively Stochastic Process. PLoS Comput Biol 10(10): e1003846. https://doi.org/10.1371/journal.pcbi.1003846 |
+| **?** | SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and
+<0.5MB model size
+Song Han et al. 2017
+https://arxiv.org/abs/1602.07360 (submitted to ICLR 2017) |
+|  |  | ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA
+Song Han et al. 2017
+https://arxiv.org/abs/1612.00694 |
+|  |  | Memory bounded neural network
+Collins et al. 2014
+https://arxiv.org/pdf/1412.1442.pdf |
+|  |  | Memory bounded neural network
+Collins et al. 2014
+https://arxiv.org/pdf/1412.1442.pdf | |
 
 
 ## Wishlist
@@ -30,6 +40,9 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **29.10.2017** | Jian | Dvorkin R, Ziv NE (2016) Relative Contributions of Specific Activity Histories and Spontaneous Processes to Size Remodeling of Glutamatergic Synapses. PLoS Biol 14(10): e1002572. https://doi.org/10.1371/journal.pbio.1002572 |
+|  |  | Rubinski A, Ziv NE (2015) Remodeling and Tenacity of Inhibitory Synapses: Relationships with Network Activity and Neighboring Excitatory Synapses. PLoS Comput Biol 11(11): e1004632. https://doi.org/10.1371/journal.pcbi.1004632 |
+|  |  | Statman A, Kaufman M, Minerbi A, Ziv NE, Brenner N (2014) Synaptic Size Dynamics as an Effectively Stochastic Process. PLoS Comput Biol 10(10): e1003846. https://doi.org/10.1371/journal.pcbi.1003846 |
 | **10.08.2017** | Franz | Zoph, Barret, and Quoc V. Le. "Neural architecture search with reinforcement learning." arXiv preprint arXiv:1611.01578 (2016). |
 | **02.08.2017** | David | Friston K. and Kiebel S. "Predictive coding under the free-energy principle." Phil. Trans. R. Soc. B (2009) 364, 1211–1221. |
 |  |  | Friston K. "Variational filtering." NeuroImage (2008) 41, 747-766. |
