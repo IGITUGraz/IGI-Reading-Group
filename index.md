@@ -14,9 +14,9 @@ If you're from outside IGI and would like to attend a particular session, contac
 | Date           | Moderator | Paper                                                                                                                                 |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **?** | Guillaume | Song Han et al. 2017 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size https://arxiv.org/abs/1602.07360 (submitted to ICLR 2017) |
-|  |  | ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA Song Han et al. 2017 https://arxiv.org/abs/1612.00694 |
-|  |  | Memory bounded neural network Collins et al. 2014 https://arxiv.org/pdf/1412.1442.pdf |
-|  |  | Learning both weights and connections Song Han et al. 2015 https://arxiv.org/pdf/1506.02626.pdf (appeared in NIPS) | |
+|  |  | Song Han et al. 2017 - ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA  https://arxiv.org/abs/1612.00694 |
+|  |  | Collins et al. 2014 - Memory bounded neural network  https://arxiv.org/pdf/1412.1442.pdf |
+|  |  | Song Han et al. 2015 - Learning both weights and connections  https://arxiv.org/pdf/1506.02626.pdf (appeared in NIPS) | |
 
 
 ## Wishlist
