@@ -11,12 +11,17 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 ## Upcoming meetings
 
-| Date           | Moderator | Paper                                                                                                                                 |
+| Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **?** | Guillaume | Song Han et al. 2017 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size https://arxiv.org/abs/1602.07360 (submitted to ICLR 2017) |
 |  |  | Song Han et al. 2017 - ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA  https://arxiv.org/abs/1612.00694 |
 |  |  | Collins et al. 2014 - Memory bounded neural network  https://arxiv.org/pdf/1412.1442.pdf |
-|  |  | Song Han et al. 2015 - Learning both weights and connections  https://arxiv.org/pdf/1506.02626.pdf (appeared in NIPS) | |
+|  |  | Song Han et al. 2015 - Learning both weights and connections  https://arxiv.org/pdf/1506.02626.pdf (appeared in NIPS) |
+| **?** | Anand | Xu, Yan, Xiaoqin Zeng, and Shuiming Zhong. "A new supervised learning algorithm for spiking neurons." Neural computation 25.6 (2013): 1472-1511. |
+|  |  | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
+|  |  | Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309. |
+|  |  | Ponulak, Filip, and Andrzej Kasiński. "Supervised learning in spiking neural networks with ReSuMe: sequence learning, classification, and spike shifting." Neural Computation 22.2 (2010): 467-510. |
+|  |  | Jolivet, Renaud, et al. "Predicting spike timing of neocortical pyramidal neurons by simple threshold models." Journal of computational neuroscience 21.1 (2006): 35-49. |
 
 
 ## Wishlist
