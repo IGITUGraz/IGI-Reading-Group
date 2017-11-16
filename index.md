@@ -13,10 +13,10 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **?** | Guillaume | Song Han et al. 2017 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size https://arxiv.org/abs/1602.07360 (submitted to ICLR 2017) |
-|  |  | Song Han et al. 2017 - ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA  https://arxiv.org/abs/1612.00694 |
-|  |  | Collins et al. 2014 - Memory bounded neural network  https://arxiv.org/pdf/1412.1442.pdf |
-|  |  | Song Han et al. 2015 - Learning both weights and connections  https://arxiv.org/pdf/1506.02626.pdf (appeared in NIPS) |
+| **17.11.2017** | Michael | Hadji, Isma, and Richard P. Wildes. "A Spatiotemporal Oriented Energy Network for Dynamic Texture Recognition." arXiv preprint arXiv:1708.06690 (2017). https://arxiv.org/abs/1708.06690 |
+| **24.11.2017** | Anand | tba |
+| **01.12.2017** | Guillaume | tba |
+| **15.12.2017** | Thomas L. | tba |
 | **?** | Anand | Xu, Yan, Xiaoqin Zeng, and Shuiming Zhong. "A new supervised learning algorithm for spiking neurons." Neural computation 25.6 (2013): 1472-1511. |
 |  |  | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
 |  |  | Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309. |
@@ -36,6 +36,10 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **06.10.2017** | Guillaume | Song Han et al. 2017 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size https://arxiv.org/abs/1602.07360 (submitted to ICLR 2017) |
+|  |  | Song Han et al. 2017 - ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA  https://arxiv.org/abs/1612.00694 |
+|  |  | Collins et al. 2014 - Memory bounded neural network  https://arxiv.org/pdf/1412.1442.pdf |
+|  |  | Song Han et al. 2015 - Learning both weights and connections  https://arxiv.org/pdf/1506.02626.pdf (appeared in NIPS) |
 | **29.10.2017** | Jian | Dvorkin R, Ziv NE (2016) Relative Contributions of Specific Activity Histories and Spontaneous Processes to Size Remodeling of Glutamatergic Synapses. PLoS Biol 14(10): e1002572. https://doi.org/10.1371/journal.pbio.1002572 |
 |  |  | Rubinski A, Ziv NE (2015) Remodeling and Tenacity of Inhibitory Synapses: Relationships with Network Activity and Neighboring Excitatory Synapses. PLoS Comput Biol 11(11): e1004632. https://doi.org/10.1371/journal.pcbi.1004632 |
 |  |  | Statman A, Kaufman M, Minerbi A, Ziv NE, Brenner N (2014) Synaptic Size Dynamics as an Effectively Stochastic Process. PLoS Comput Biol 10(10): e1003846. https://doi.org/10.1371/journal.pcbi.1003846 |
