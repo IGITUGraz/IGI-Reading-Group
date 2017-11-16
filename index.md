@@ -5,7 +5,7 @@ title: IGI Reading Group
 # IGI Reading Group
 The IGI Reading Group is the informal reading group a.k.a Journal Club of [IGI](http://www.igi.tugraz.at) where we meet once a week and discuss papers that are related to our research, of general interest, or just some paper one of us found cool.
 
-For the Summer Semester 2017 this happens on Tuedays 1500h in the IGI Library (Or Seminar room if the group becomes larger).
+For the Winter Semester 2017/18 this happens on Fridays 14:00 in the IGI Library (Or Seminar room if the group becomes larger).
 
 If you're from outside IGI and would like to attend a particular session, contact `anand [at] igi.tugraz.at`
 
