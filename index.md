@@ -22,6 +22,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 |  |  | Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309. |
 |  |  | Ponulak, Filip, and Andrzej Kasiński. "Supervised learning in spiking neural networks with ReSuMe: sequence learning, classification, and spike shifting." Neural Computation 22.2 (2010): 467-510. |
 |  |  | Jolivet, Renaud, et al. "Predicting spike timing of neocortical pyramidal neurons by simple threshold models." Journal of computational neuroscience 21.1 (2006): 35-49. |
+| **?** | Franz | Graves. "Adaptive Computation Time for Recurrent Neural Networks." arXiv:1603.08983 (2016). https://arxiv.org/abs/1603.08983 |
 
 
 ## Wishlist
