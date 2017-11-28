@@ -13,14 +13,10 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **17.11.2017** | Michael | Hadji, Isma, and Richard P. Wildes. "A Spatiotemporal Oriented Energy Network for Dynamic Texture Recognition." arXiv preprint arXiv:1708.06690 (2017). https://arxiv.org/abs/1708.06690 |
-| **24.11.2017** | Anand | tba |
 | **01.12.2017** | Guillaume | tba |
 | **15.12.2017** | Thomas L. | tba |
-| **?** | Anand | Xu, Yan, Xiaoqin Zeng, and Shuiming Zhong. "A new supervised learning algorithm for spiking neurons." Neural computation 25.6 (2013): 1472-1511. |
-|  |  | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
+| **?** | Anand | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
 |  |  | Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309. |
-|  |  | Ponulak, Filip, and Andrzej Kasiński. "Supervised learning in spiking neural networks with ReSuMe: sequence learning, classification, and spike shifting." Neural Computation 22.2 (2010): 467-510. |
 |  |  | Jolivet, Renaud, et al. "Predicting spike timing of neocortical pyramidal neurons by simple threshold models." Journal of computational neuroscience 21.1 (2006): 35-49. |
 | **?** | Franz | Graves. "Adaptive Computation Time for Recurrent Neural Networks." arXiv:1603.08983 (2016). https://arxiv.org/abs/1603.08983 |
 
@@ -37,6 +33,9 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **24.11.2017** | Anand | Xu, Yan, Xiaoqin Zeng, and Shuiming Zhong. "A new supervised learning algorithm for spiking neurons." Neural computation 25.6 (2013): 1472-1511. |
+|  |  | Ponulak, Filip, and Andrzej Kasiński. "Supervised learning in spiking neural networks with ReSuMe: sequence learning, classification, and spike shifting." Neural Computation 22.2 (2010): 467-510. |
+| **17.11.2017** | Michael | Hadji, Isma, and Richard P. Wildes. "A Spatiotemporal Oriented Energy Network for Dynamic Texture Recognition." arXiv preprint arXiv:1708.06690 (2017). https://arxiv.org/abs/1708.06690 |
 | **06.10.2017** | Guillaume | Song Han et al. 2017 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size https://arxiv.org/abs/1602.07360 (submitted to ICLR 2017) |
 |  |  | Song Han et al. 2017 - ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA  https://arxiv.org/abs/1612.00694 |
 |  |  | Collins et al. 2014 - Memory bounded neural network  https://arxiv.org/pdf/1412.1442.pdf |
