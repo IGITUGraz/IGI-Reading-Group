@@ -13,7 +13,6 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **01.12.2017** | Guillaume | tba |
 | **15.12.2017** | Thomas L. | tba |
 | **?** | Anand | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
 |  |  | Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309. |
@@ -33,6 +32,9 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **01.12.2017** | Guillaume | Sussillo, Stavisky, Kao, Ryu, Shenoy. "Making brain-machine interfaces robust to future neural variability" nature communications |
+|  |  | Panzeri, Harvey, Piasini, Latham, Fellin "Cracking the Neural Code for Sensory Perception by Combining Statistics, Intervention and Behavior" |
+|  |  |  Lee, Delbruck, and  Pfeiffer "Training Deep Spiking Neural Networks Using Backpropagation" |
 | **24.11.2017** | Anand | Xu, Yan, Xiaoqin Zeng, and Shuiming Zhong. "A new supervised learning algorithm for spiking neurons." Neural computation 25.6 (2013): 1472-1511. |
 |  |  | Ponulak, Filip, and Andrzej Kasiński. "Supervised learning in spiking neural networks with ReSuMe: sequence learning, classification, and spike shifting." Neural Computation 22.2 (2010): 467-510. |
 | **17.11.2017** | Michael | Hadji, Isma, and Richard P. Wildes. "A Spatiotemporal Oriented Energy Network for Dynamic Texture Recognition." arXiv preprint arXiv:1708.06690 (2017). https://arxiv.org/abs/1708.06690 |
