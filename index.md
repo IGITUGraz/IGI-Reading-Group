@@ -13,11 +13,11 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **07.12.2017** | Franz | Graves. "Adaptive Computation Time for Recurrent Neural Networks." arXiv:1603.08983 (2016). https://arxiv.org/abs/1603.08983 |
 | **15.12.2017** | Thomas L. | tba |
 | **?** | Anand | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
 |  |  | Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309. |
 |  |  | Jolivet, Renaud, et al. "Predicting spike timing of neocortical pyramidal neurons by simple threshold models." Journal of computational neuroscience 21.1 (2006): 35-49. |
-| **?** | Franz | Graves. "Adaptive Computation Time for Recurrent Neural Networks." arXiv:1603.08983 (2016). https://arxiv.org/abs/1603.08983 |
 
 
 ## Wishlist
