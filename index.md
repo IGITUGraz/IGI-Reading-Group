@@ -13,8 +13,11 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **07.12.2017** | Franz | Graves. "Adaptive Computation Time for Recurrent Neural Networks." arXiv:1603.08983 (2016). https://arxiv.org/abs/1603.08983 |
 | **15.12.2017** | Thomas L. | tba |
+| **05.01.2018** | Arjun | tba |
+| **12.01.2018** | Thomas B. | tba |
+| **19.01.2018** | tba | tba |
+| **26.01.2018** | Christoph | tba |
 | **?** | Anand | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
 |  |  | Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309. |
 |  |  | Jolivet, Renaud, et al. "Predicting spike timing of neocortical pyramidal neurons by simple threshold models." Journal of computational neuroscience 21.1 (2006): 35-49. |
@@ -32,6 +35,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **07.12.2017** | Franz | Graves. "Adaptive Computation Time for Recurrent Neural Networks." arXiv:1603.08983 (2016). https://arxiv.org/abs/1603.08983 |
 | **01.12.2017** | Guillaume | Sussillo, Stavisky, Kao, Ryu, Shenoy. "Making brain-machine interfaces robust to future neural variability" nature communications |
 |  |  | Panzeri, Harvey, Piasini, Latham, Fellin "Cracking the Neural Code for Sensory Perception by Combining Statistics, Intervention and Behavior" |
 |  |  |  Lee, Delbruck, and  Pfeiffer "Training Deep Spiking Neural Networks Using Backpropagation" |
