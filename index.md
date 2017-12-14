@@ -13,7 +13,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **15.12.2017** | Thomas L. | tba |
+| **15.12.2017** | Thomas L. | Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016). |
 | **05.01.2018** | Arjun | tba |
 | **12.01.2018** | Thomas B. | tba |
 | **19.01.2018** | tba | tba |
@@ -27,7 +27,6 @@ If you're from outside IGI and would like to attend a particular session, contac
 * **IGI**: Nessler, Bernhard, et al. "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity." PLoS Comput Biol 9.4 (2013): e1003037.
 * **IGI**: Habenschuss, Stefan, Zeno Jonke, and Wolfgang Maass. "Stochastic computations in cortical microcircuit models." PLoS Comput Biol 9.11 (2013): e1003311.
 * Constantinople, Christine M., and Randy M. Bruno. "Deep cortical layers are activated directly by thalamus." Science 340.6140 (2013): 1591-1594.
-* Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016).
 * LDA: Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." Journal of machine Learning research 3.Jan (2003): 993-1022.
 
 
