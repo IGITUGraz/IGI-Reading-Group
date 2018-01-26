@@ -13,7 +13,10 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **26.01.2018** | Darjan | tba |
+| **02.02.2018** | Guillaume | tba |
+| **09.02.2018** | tba | tba |
+| **16.02.2018** | tba | tba |
+| **23.02.2018** | Michael | tba |
 | **?** | Anand | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
 |  |  | Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309. |
 |  |  | Jolivet, Renaud, et al. "Predicting spike timing of neocortical pyramidal neurons by simple threshold models." Journal of computational neuroscience 21.1 (2006): 35-49. |
@@ -30,6 +33,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **26.01.2018** | Darjan | Mishra, Nikhil, et al. "Meta-learning with temporal convolutions." arXiv preprint arXiv:1707.03141 (2017). https://arxiv.org/abs/1707.03141 |
 | **19.01.2018** | Arjun | Jaderberg, Max, et al. "Population Based Training of Neural Networks." arXiv preprint arXiv:1711.09846 (2017). |
 | **12.01.2018** | Thomas B. | Wang, Peng, et al. "Multi-attention network for one shot learning." 2017 IEEE conference on computer vision and pattern recognition, CVPR. 2017. |
 | **05.01.2018** | Thomas L. | Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016). |
