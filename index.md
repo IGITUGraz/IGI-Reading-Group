@@ -14,7 +14,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **02.02.2018** | Guillaume | tba |
-| **09.02.2018** | tba | tba |
+| **09.02.2018** | Anand | tba |
 | **16.02.2018** | tba | tba |
 | **23.02.2018** | Michael | tba |
 | **?** | Anand | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
