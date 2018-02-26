@@ -13,7 +13,9 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **23.02.2018** | Michael | Mostafa, Hesham, Vishwajith Ramesh, and Gert Cauwenberghs. "Deep supervised learning using local errors." arXiv preprint arXiv:1711.06756 (2017). |
+| **02.03.2018** | Anand | tba |
+| **09.03.2018** | Franz | tba |
+| **16.03.2018** | Thomas L. | tba |
 | **?** | Anand | Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382. |
 |  |  | Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309. |
 |  |  | Jolivet, Renaud, et al. "Predicting spike timing of neocortical pyramidal neurons by simple threshold models." Journal of computational neuroscience 21.1 (2006): 35-49. |
@@ -30,6 +32,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **23.02.2018** | Michael | Mostafa, Hesham, Vishwajith Ramesh, and Gert Cauwenberghs. "Deep supervised learning using local errors." arXiv preprint arXiv:1711.06756 (2017). |
 | **09.02.2018** | Anand | Costa, R., Assael, Y., Shillingford, B., de Freitas, N. & Vogels, Ti. Cortical microcircuits as gated-recurrent neural networks. in Advances in Neural Information Processing Systems 30 (eds. Guyon, I. et al.) 271–282 (Curran Associates, Inc., 2017). |
 | **02.02.2018** | Guillaume | Bahdanau, Dzmitry, et al. "End-to-end attention-based large vocabulary speech recognition." Acoustics, Speech and Signal Processing (ICASSP), 2016 IEEE International Conference on. IEEE, 2016.|
 | | | Graves, Alex, Abdel-rahman Mohamed, and Geoffrey Hinton. "Speech recognition with deep recurrent neural networks." Acoustics, speech and signal processing (icassp), 2013 ieee international conference on. IEEE, 2013.|
