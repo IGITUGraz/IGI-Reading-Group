@@ -27,6 +27,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 * **IGI**: Habenschuss, Stefan, Zeno Jonke, and Wolfgang Maass. "Stochastic computations in cortical microcircuit models." PLoS Comput Biol 9.11 (2013): e1003311.
 * Constantinople, Christine M., and Randy M. Bruno. "Deep cortical layers are activated directly by thalamus." Science 340.6140 (2013): 1591-1594.
 * LDA: Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." Journal of machine Learning research 3.Jan (2003): 993-1022.
+* J. Sacramento, R. P. Costa, Y. Bengio, W. Senn. "Dendritic error backpropagation in deep cortical microcircuits." arXiv 30.Dec 2017
 
 
 ## Past meetings
