@@ -13,10 +13,9 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **09.03.2018** | Franz | tba |
-| **16.03.2018** | Thomas L. | tba |
-| **23.03.2018** | Arjun | tba |
-| **30.03.2018** | Guillaume | tba |
+| **19.03.2018** | Thomas L. | tba |
+| **26.03.2018** | Arjun | tba |
+| **09.04.2018** | Guillaume | tba |
 
 
 ## Wishlist
@@ -35,6 +34,8 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **12.03.2018** | Franz | Houthooft, Rein, et al. "Vime: Variational information maximizing exploration." Advances in Neural Information Processing Systems. 2016. |
+|  |  | Blundell, Charles, et al. "Weight uncertainty in neural networks." arXiv preprint arXiv:1505.05424 (2015). |
 | **02.03.2018** | Anand | Finn, Chelsea, Pieter Abbeel, and Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." arXiv preprint arXiv:1703.03400 (2017). |
 | **23.02.2018** | Michael | Mostafa, Hesham, Vishwajith Ramesh, and Gert Cauwenberghs. "Deep supervised learning using local errors." arXiv preprint arXiv:1711.06756 (2017). |
 | **09.02.2018** | Anand | Costa, R., Assael, Y., Shillingford, B., de Freitas, N. & Vogels, Ti. Cortical microcircuits as gated-recurrent neural networks. in Advances in Neural Information Processing Systems 30 (eds. Guyon, I. et al.) 271–282 (Curran Associates, Inc., 2017). |
