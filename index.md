@@ -34,6 +34,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **23.04.2018** | Ceca | Glimcher, Paul W. "Understanding dopamine and reinforcement learning: the dopamine reward prediction error hypothesis." Proceedings of the National Academy of Sciences 108.Supplement 3 (2011): 15647-15654. |
 | **12.03.2018** | Franz | Houthooft, Rein, et al. "Vime: Variational information maximizing exploration." Advances in Neural Information Processing Systems. 2016. |
 |  |  | Blundell, Charles, et al. "Weight uncertainty in neural networks." arXiv preprint arXiv:1505.05424 (2015). |
 | **02.03.2018** | Anand | Finn, Chelsea, Pieter Abbeel, and Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." arXiv preprint arXiv:1703.03400 (2017). |
