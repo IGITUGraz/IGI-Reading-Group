@@ -13,10 +13,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **19.03.2018** | Thomas L. | tba |
-| **26.03.2018** | Arjun | tba |
-| **09.04.2018** | Guillaume | tba |
-
+| **13.07.2018** | Franz | Sabour, Sara, Nicholas Frosst, and Geoffrey E. Hinton. "Dynamic routing between capsules." Advances in Neural Information Processing Systems. 2017. |
 
 ## Wishlist
 * J. Sacramento, R. P. Costa, Y. Bengio, W. Senn. "Dendritic error backpropagation in deep cortical microcircuits." arXiv 30.Dec 2017
