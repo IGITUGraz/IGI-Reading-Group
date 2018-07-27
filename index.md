@@ -13,10 +13,9 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **13.07.2018** | Franz | Sabour, Sara, Nicholas Frosst, and Geoffrey E. Hinton. "Dynamic routing between capsules." Advances in Neural Information Processing Systems. 2017. |
+
 
 ## Wishlist
-* J. Sacramento, R. P. Costa, Y. Bengio, W. Senn. "Dendritic error backpropagation in deep cortical microcircuits." arXiv 30.Dec 2017
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
 * Jin, Chi, et al. "How to escape saddle points efficiently." arXiv preprint arXiv:1703.00887 (2017).
 * **IGI**: Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382.
@@ -31,6 +30,8 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **20.07.2018** | Arjun | Henaff, Mikael, et al. "Tracking the world state with recurrent entity networks." arXiv preprint arXiv:1612.03969 (2016). |
+| **13.07.2018** | Franz | Sabour, Sara, Nicholas Frosst, and Geoffrey E. Hinton. "Dynamic routing between capsules." Advances in Neural Information Processing Systems. 2017. |
 | **23.04.2018** | Ceca | Glimcher, Paul W. "Understanding dopamine and reinforcement learning: the dopamine reward prediction error hypothesis." Proceedings of the National Academy of Sciences 108.Supplement 3 (2011): 15647-15654. |
 | **12.03.2018** | Franz | Houthooft, Rein, et al. "Vime: Variational information maximizing exploration." Advances in Neural Information Processing Systems. 2016. |
 |  |  | Blundell, Charles, et al. "Weight uncertainty in neural networks." arXiv preprint arXiv:1505.05424 (2015). |
