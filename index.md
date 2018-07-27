@@ -13,6 +13,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **03.08.2018** | ? |  |
 
 
 ## Wishlist
