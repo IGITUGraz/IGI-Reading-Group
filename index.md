@@ -13,8 +13,6 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **03.08.2018** | Darjan |  |
-| **10.08.2018** | Anand |  |
 | **07.09.2018** | Michael |  |
 
 
@@ -33,6 +31,8 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **10.08.2018** | Anand | Franceschi, L., Frasconi, P., Salzo, S., Grazzi, R., & Pontil, M. (2018). Bilevel Programming for Hyperparameter Optimization and Meta-Learning. ArXiv:1806.04910 [Cs, Stat]. Retrieved from http://arxiv.org/abs/1806.04910 (ICML 2018) |
+| **03.08.2018** | Darjan | Siwani, Samer, et al. "OLMα2 cells bidirectionally modulate learning." Neuron (2018). |
 | **20.07.2018** | Arjun | Henaff, Mikael, et al. "Tracking the world state with recurrent entity networks." arXiv preprint arXiv:1612.03969 (2016). |
 | **13.07.2018** | Franz | Sabour, Sara, Nicholas Frosst, and Geoffrey E. Hinton. "Dynamic routing between capsules." Advances in Neural Information Processing Systems. 2017. |
 | **23.04.2018** | Ceca | Glimcher, Paul W. "Understanding dopamine and reinforcement learning: the dopamine reward prediction error hypothesis." Proceedings of the National Academy of Sciences 108.Supplement 3 (2011): 15647-15654. |
