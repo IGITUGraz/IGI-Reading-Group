@@ -7,14 +7,24 @@ The IGI Reading Group is the informal reading group a.k.a Journal Club of [IGI](
 
 For the Summer Break 2018 this happens on Fridays 14:00 in the IGI Library (or Seminar room if the group becomes larger).
 
-If you're from outside IGI and would like to attend a particular session, contact `anand [at] igi.tugraz.at`
+If you're from outside IGI and would like to attend a particular session, contact `anand [at] igi.tugraz.at`.
+
+## Current presentation cycle
+
+Aid, Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Michael, Thomas L.
 
 ## Upcoming meetings
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **07.09.2018** | Michael |  |
-
+| **05.10.2018** | Ceca | tba |
+| **12.10.2018** | Darjan | tba |
+| **19.10.2018** | Franz | tba |
+| **tba** | Guillaume | tba |
+| **tba** | Michael | tba |
+| **tba** | Thomas L. | tba |
+| **tba** | Aid | tba |
+| **tba** | Anand | tba |
 
 ## Wishlist
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
@@ -31,6 +41,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **21.09.2018** | Arjun | Palm, Rasmus Berg, Ulrich Paquet, and Ole Winther. "Recurrent Relational Networks." arXiv preprint arXiv:1711.08028 (2018). |
 | **10.08.2018** | Anand | Franceschi, L., Frasconi, P., Salzo, S., Grazzi, R., & Pontil, M. (2018). Bilevel Programming for Hyperparameter Optimization and Meta-Learning. ArXiv:1806.04910 [Cs, Stat]. Retrieved from http://arxiv.org/abs/1806.04910 (ICML 2018) |
 | **03.08.2018** | Darjan | Siwani, Samer, et al. "OLMα2 cells bidirectionally modulate learning." Neuron (2018). |
 | **20.07.2018** | Arjun | Henaff, Mikael, et al. "Tracking the world state with recurrent entity networks." arXiv preprint arXiv:1612.03969 (2016). |
