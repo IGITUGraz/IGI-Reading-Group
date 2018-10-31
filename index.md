@@ -17,9 +17,7 @@ Aid, Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Michael, Thomas L.
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **05.10.2018** | Ceca | tba |
-| **12.10.2018** | Darjan | tba |
-| **19.10.2018** | Franz | tba |
+| **19.10.2018** | Franz | Perich, Matthew G., Juan A. Gallego, and Lee E. Miller. "A neural population mechanism for rapid learning." Neuron (2018). |
 | **tba** | Guillaume | tba |
 | **tba** | Michael | tba |
 | **tba** | Thomas L. | tba |
@@ -41,6 +39,9 @@ Aid, Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Michael, Thomas L.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **12.10.2018** | Darjan | Zeng, Andy, et al. "Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning." arXiv preprint arXiv:1803.09956 (2018). |
+|  |  | Dubey, Rachit, et al. "Investigating Human Priors for Playing Video Games." arXiv preprint arXiv:1802.10217 (2018). |
+| **05.10.2018** | Ceca | Rougier, Nicolas P., et al. "Prefrontal cortex and flexible cognitive control: Rules without symbols." Proceedings of the National Academy of Sciences 102.20 (2005): 7338-7343. |
 | **21.09.2018** | Arjun | Palm, Rasmus Berg, Ulrich Paquet, and Ole Winther. "Recurrent Relational Networks." arXiv preprint arXiv:1711.08028 (2018). |
 | **10.08.2018** | Anand | Franceschi, L., Frasconi, P., Salzo, S., Grazzi, R., & Pontil, M. (2018). Bilevel Programming for Hyperparameter Optimization and Meta-Learning. ArXiv:1806.04910 [Cs, Stat]. Retrieved from http://arxiv.org/abs/1806.04910 (ICML 2018) |
 | **03.08.2018** | Darjan | Siwani, Samer, et al. "OLMα2 cells bidirectionally modulate learning." Neuron (2018). |
