@@ -17,8 +17,6 @@ Aid, Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Michael, Thomas L.
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **19.10.2018** | Franz | Perich, Matthew G., Juan A. Gallego, and Lee E. Miller. "A neural population mechanism for rapid learning." Neuron (2018). |
-| **tba** | Guillaume | tba |
 | **tba** | Michael | tba |
 | **tba** | Thomas L. | tba |
 | **tba** | Aid | tba |
@@ -39,6 +37,8 @@ Aid, Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Michael, Thomas L.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **09.11.2018** | Guillaume | Wasmuht, Dante Francisco, et al. "Intrinsic neuronal dynamics predict distinct functional roles during working memory." Nature communications 9.1 (2018): 3499. |
+| **19.10.2018** | Franz | Perich, Matthew G., Juan A. Gallego, and Lee E. Miller. "A neural population mechanism for rapid learning." Neuron (2018). |
 | **12.10.2018** | Darjan | Zeng, Andy, et al. "Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning." arXiv preprint arXiv:1803.09956 (2018). |
 |  |  | Dubey, Rachit, et al. "Investigating Human Priors for Playing Video Games." arXiv preprint arXiv:1802.10217 (2018). |
 | **05.10.2018** | Ceca | Rougier, Nicolas P., et al. "Prefrontal cortex and flexible cognitive control: Rules without symbols." Proceedings of the National Academy of Sciences 102.20 (2005): 7338-7343. |
