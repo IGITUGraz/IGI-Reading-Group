@@ -18,7 +18,7 @@ Aid, Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Michael, Thomas L.
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **20.11.2018** | Michael | Kutter, Esther F., et al. "Single Neurons in the Human Brain Encode Numbers." Neuron (2018). |
-| | Quiroga, R. Quian, et al. "Invariant visual representation by single neurons in the human brain." Nature 435.7045 (2005): 1102. |
+| | | Quiroga, R. Quian, et al. "Invariant visual representation by single neurons in the human brain." Nature 435.7045 (2005): 1102. |
 | **tba** | Thomas L. | tba |
 | **tba** | Aid | tba |
 | **tba** | Anand | tba |
