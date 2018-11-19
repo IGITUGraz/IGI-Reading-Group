@@ -17,10 +17,13 @@ Aid, Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Michael, Thomas L.
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **tba** | Michael | tba |
+| **20.11.2018** | Michael | Kutter, Esther F., et al. "Single Neurons in the Human Brain Encode Numbers." Neuron (2018). |
+| | Quiroga, R. Quian, et al. "Invariant visual representation by single neurons in the human brain." Nature 435.7045 (2005): 1102. |
 | **tba** | Thomas L. | tba |
 | **tba** | Aid | tba |
 | **tba** | Anand | tba |
+| **tba** | Arjun | tba |
+| **tba** | Ceca | tba |
 
 ## Wishlist
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
