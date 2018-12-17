@@ -17,10 +17,6 @@ Aid, Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Michael, Thomas L.
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **20.11.2018** | Michael | Kutter, Esther F., et al. "Single Neurons in the Human Brain Encode Numbers." Neuron (2018). |
-| | | Quiroga, R. Quian, et al. "Invariant visual representation by single neurons in the human brain." Nature 435.7045 (2005): 1102. |
-| **tba** | Thomas L. | tba |
-| **tba** | Aid | tba |
 | **tba** | Anand | tba |
 | **tba** | Arjun | tba |
 | **tba** | Ceca | tba |
@@ -40,6 +36,9 @@ Aid, Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Michael, Thomas L.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **17.12.2018** | Thomas L. | Beaulieu-Laroche, Lou, et al. "Enhanced Dendritic Compartmentalization in Human Cortical Neurons." Cell 175.3 (2018): 643-651. |
+| **20.11.2018** | Michael | Kutter, Esther F., et al. "Single Neurons in the Human Brain Encode Numbers." Neuron (2018). |
+| | | Quiroga, R. Quian, et al. "Invariant visual representation by single neurons in the human brain." Nature 435.7045 (2005): 1102. |
 | **09.11.2018** | Guillaume | Wasmuht, Dante Francisco, et al. "Intrinsic neuronal dynamics predict distinct functional roles during working memory." Nature communications 9.1 (2018): 3499. |
 | **19.10.2018** | Franz | Perich, Matthew G., Juan A. Gallego, and Lee E. Miller. "A neural population mechanism for rapid learning." Neuron (2018). |
 | **12.10.2018** | Darjan | Zeng, Andy, et al. "Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning." arXiv preprint arXiv:1803.09956 (2018). |
