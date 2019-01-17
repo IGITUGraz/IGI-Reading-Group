@@ -20,6 +20,8 @@ Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Horst, Michael, Thomas L.
 | **tba** | Anand | tba |
 | **tba** | Arjun | tba |
 | **tba** | Ceca | tba |
+| **tba** | Darjan | tba |
+| **tba** | Franz | tba |
 
 ## Wishlist
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
