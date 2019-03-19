@@ -5,22 +5,22 @@ title: IGI Reading Group
 # IGI Reading Group
 The IGI Reading Group is the informal reading group a.k.a Journal Club of [IGI](http://www.igi.tugraz.at) where we meet once a week and discuss papers that are related to our research, of general interest, or just some paper one of us found cool.
 
-For the winter term 2018/19 this happens (mostly) on Fridays 14:00 in the IGI Library (or Seminar room if the group becomes larger).
+For the summer term 2019 this happens (mostly) on Fridays 14:00 in the IGI Library (or Seminar room if the group becomes larger).
 
 If you're from outside IGI and would like to attend a particular session, contact `anand [at] igi.tugraz.at`.
 
 ## Current presentation cycle
 
-Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Horst, Michael, Thomas L.
+Anand, Arjun, Ceca, Darjan, Emina, Franz, Guillaume, Horst, Michael, Thomas L.
 
 ## Upcoming meetings
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **tba** | Anand | tba |
 | **tba** | Arjun | tba |
 | **tba** | Ceca | tba |
 | **tba** | Darjan | tba |
+| **tba** | Emina | tba |
 | **tba** | Franz | tba |
 
 ## Wishlist
@@ -38,6 +38,7 @@ Anand, Arjun, Ceca, Darjan, Franz, Guillaume, Horst, Michael, Thomas L.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **14.03.2019** | Anand | Jaderberg, Max, et al. "Human-level performance in first-person multiplayer games with population-based deep reinforcement learning." arXiv preprint arXiv:1807.01281 (2018). |
 | **17.12.2018** | Thomas L. | Beaulieu-Laroche, Lou, et al. "Enhanced Dendritic Compartmentalization in Human Cortical Neurons." Cell 175.3 (2018): 643-651. |
 | **20.11.2018** | Michael | Kutter, Esther F., et al. "Single Neurons in the Human Brain Encode Numbers." Neuron (2018). |
 | | | Quiroga, R. Quian, et al. "Invariant visual representation by single neurons in the human brain." Nature 435.7045 (2005): 1102. |
