@@ -17,7 +17,8 @@ Anand, Arjun, Ceca, Darjan, Emina, Franz, Guillaume, Horst, Michael, Thomas L.
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **tba** | Arjun | tba |
+| **20.03.2019** | Arjun | Koutnik, Jan, et al. "A clockwork rnn." arXiv preprint arXiv:1402.3511 (2014). |
+| | | Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio. "Hierarchical multiscale recurrent neural networks." arXiv preprint arXiv:1609.01704 (2016). |
 | **tba** | Ceca | tba |
 | **tba** | Darjan | tba |
 | **tba** | Emina | tba |
