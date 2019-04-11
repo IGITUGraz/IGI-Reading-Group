@@ -17,10 +17,8 @@ Anand, Arjun, Ceca, Darjan, Emina, Franz, Guillaume, Horst, Michael, Thomas L.
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **20.03.2019** | Arjun | Koutnik, Jan, et al. "A clockwork rnn." arXiv preprint arXiv:1402.3511 (2014). |
-| | | Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio. "Hierarchical multiscale recurrent neural networks." arXiv preprint arXiv:1609.01704 (2016). |
 | **tba** | Ceca | tba |
-| **tba** | Darjan | tba |
+| **tba** | Elias | tba |
 | **tba** | Emina | tba |
 | **tba** | Franz | tba |
 
@@ -39,6 +37,9 @@ Anand, Arjun, Ceca, Darjan, Emina, Franz, Guillaume, Horst, Michael, Thomas L.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **11.04.2019** | Darjan | Krotov, Dmitry, and John J. Hopfield. "Unsupervised learning by competing hidden units." Proceedings of the National Academy of Sciences (2019): 201820458. |
+| **20.03.2019** | Arjun | Koutnik, Jan, et al. "A clockwork rnn." arXiv preprint arXiv:1402.3511 (2014). |
+| | | Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio. "Hierarchical multiscale recurrent neural networks." arXiv preprint arXiv:1609.01704 (2016). |
 | **14.03.2019** | Anand | Jaderberg, Max, et al. "Human-level performance in first-person multiplayer games with population-based deep reinforcement learning." arXiv preprint arXiv:1807.01281 (2018). |
 | **17.12.2018** | Thomas L. | Beaulieu-Laroche, Lou, et al. "Enhanced Dendritic Compartmentalization in Human Cortical Neurons." Cell 175.3 (2018): 643-651. |
 | **20.11.2018** | Michael | Kutter, Esther F., et al. "Single Neurons in the Human Brain Encode Numbers." Neuron (2018). |
