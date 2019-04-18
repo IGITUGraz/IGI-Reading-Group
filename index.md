@@ -5,22 +5,21 @@ title: IGI Reading Group
 # IGI Reading Group
 The IGI Reading Group is the informal reading group a.k.a Journal Club of [IGI](http://www.igi.tugraz.at) where we meet once a week and discuss papers that are related to our research, of general interest, or just some paper one of us found cool.
 
-For the summer term 2019 this happens (mostly) on Fridays 14:00 in the IGI Library (or Seminar room if the group becomes larger).
+For the summer term 2019 this happens (mostly) on Thursdays 14:00 in the IGI Library (or Seminar room if the group becomes larger).
 
 If you're from outside IGI and would like to attend a particular session, contact `anand [at] igi.tugraz.at`.
 
 ## Current presentation cycle
 
-Anand, Arjun, Ceca, Darjan, Elias, Emina, Franz, Guillaume, Horst, Michael, Philipp, Thomas L.
+Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Thomas L.
 
 ## Upcoming meetings
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **tba** | Ceca | tba |
 | **tba** | Elias | tba |
-| **tba** | Emina | tba |
 | **tba** | Franz | tba |
+| **tba** | Guillaume | tba |
 
 ## Wishlist
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
@@ -37,6 +36,7 @@ Anand, Arjun, Ceca, Darjan, Elias, Emina, Franz, Guillaume, Horst, Michael, Phil
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **18.04.2019** | Ceca | O’Reilly, Randall C., Thomas E. Hazy, and Seth A. Herd. "The Leabra Cognitive Architecture: How to Play 20 Principles with Nature.​." The Oxford handbook of cognitive science 91 (2016): 91-116. |
 | **11.04.2019** | Darjan | Krotov, Dmitry, and John J. Hopfield. "Unsupervised learning by competing hidden units." Proceedings of the National Academy of Sciences (2019): 201820458. |
 | **20.03.2019** | Arjun | Koutnik, Jan, et al. "A clockwork rnn." arXiv preprint arXiv:1402.3511 (2014). |
 | | | Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio. "Hierarchical multiscale recurrent neural networks." arXiv preprint arXiv:1609.01704 (2016). |
