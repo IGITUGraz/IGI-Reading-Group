@@ -17,7 +17,11 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **tba** | Elias | tba |
+| **02.05.2019** | *Rapid fire session* |
+|  | Darjan | Bönstrup, Marlene, et al. "A Rapid Form of Offline Consolidation in Skill Learning." Current Biology (2019). |
+|  |  | Triefenbach, Fabian, et al. "Phoneme recognition with large hierarchical reservoirs." Advances in neural information 
+|  | Michael | Saxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011. |
+| **09.05.2019** | Elias | tba |
 | **tba** | Franz | tba |
 | **tba** | Guillaume | tba |
 
@@ -40,7 +44,7 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 | **11.04.2019** | Darjan | Krotov, Dmitry, and John J. Hopfield. "Unsupervised learning by competing hidden units." Proceedings of the National Academy of Sciences (2019): 201820458. |
 | **20.03.2019** | Arjun | Koutnik, Jan, et al. "A clockwork rnn." arXiv preprint arXiv:1402.3511 (2014). |
 | | | Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio. "Hierarchical multiscale recurrent neural networks." arXiv preprint arXiv:1609.01704 (2016). |
-| **14.03.2019** | Anand | Jaderberg, Max, et al. "Human-level performance in first-person multiplayer games with population-based deep reinforcement learning." arXiv preprint arXiv:1807.01281 (2018). |
+| **14.03.2019** | Anand | Jaderberg, Max, et al. "Human-level performance in first-person multiplayer games wSaxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011.ith population-based deep reinforcement learning." arXiv preprint arXiv:1807.01281 (2018). |
 | **17.12.2018** | Thomas L. | Beaulieu-Laroche, Lou, et al. "Enhanced Dendritic Compartmentalization in Human Cortical Neurons." Cell 175.3 (2018): 643-651. |
 | **20.11.2018** | Michael | Kutter, Esther F., et al. "Single Neurons in the Human Brain Encode Numbers." Neuron (2018). |
 | | | Quiroga, R. Quian, et al. "Invariant visual representation by single neurons in the human brain." Nature 435.7045 (2005): 1102. |
