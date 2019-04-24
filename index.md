@@ -21,6 +21,7 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 |  | Darjan | Bönstrup, Marlene, et al. "A Rapid Form of Offline Consolidation in Skill Learning." Current Biology (2019). |
 |  |  | Triefenbach, Fabian, et al. "Phoneme recognition with large hierarchical reservoirs." Advances in neural information 
 |  | Michael | Saxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011. |
+|  | Philipp | Frady, Edward & Sommer, Friedrich. "Robust computation with rhythmic spike patterns." arxiv preprint: arXiv:1901.07718 (2019) |
 | **09.05.2019** | Elias | tba |
 | **tba** | Franz | tba |
 | **tba** | Guillaume | tba |
