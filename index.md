@@ -23,7 +23,7 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 |  | Michael | Saxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011. |
 |  | Philipp | Frady, Edward & Sommer, Friedrich. "Robust computation with rhythmic spike patterns." arxiv preprint: arXiv:1901.07718 (2019) |
 | **09.05.2019** | Elias | tba |
-| **tba** | Franz | tba |
+| **tba** | Franz | Hung, Chia-Chun, et al. "Optimizing agent behavior over long time scales by transporting value." arXiv preprint arXiv:1810.06721 (2018) |
 | **tba** | Guillaume | tba |
 
 ## Wishlist
