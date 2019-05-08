@@ -23,6 +23,7 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 |  | Michael | Saxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011. |
 |  | Philipp | Frady, Edward & Sommer, Friedrich. "Robust computation with rhythmic spike patterns." arxiv preprint: arXiv:1901.07718 (2019) |
 |  | Arjun | Akrout, M., Wilson, C., Humphreys, P. C., Lillicrap, T., & Tweed, D. (2019). Using Weight Mirrors to Improve Feedback Alignment. arXiv preprint arXiv:1904.05391 |
+|  | Ceca | Behrens, Timothy E. J., et al. “What Is a Cognitive Map? Organising Knowledge for Flexible Behaviour.” 2018, doi:10.1101/365593.; LINK: https://www.cell.com/neuron/pdf/S0896-6273(18)30856-0.pdf |
 | **16.05.2019** | Elias | tba |
 | **tba** | Franz | Hung, Chia-Chun, et al. "Optimizing agent behavior over long time scales by transporting value." arXiv preprint arXiv:1810.06721 (2018) |
 | **tba** | Guillaume | tba |
