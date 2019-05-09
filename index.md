@@ -19,7 +19,7 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **09.05.2019** | *Rapid fire session* |
 |  | Anand | Karnani, Mahesh M., et al. "A Blanket of Inhibition: Functional Inferences from Dense Inhibitory Connectivity". Current Opinion in Neurobiology, 2014 |
-|  |  | Nigam, Sunny, et al. "Rich-Club Organization in Effective Connectivity among Cortical Neurons". Journal of Neuroscience, 2016 |
+|  |  | Okun, Michael, et al. "Diverse Coupling of Neurons to Populations in Sensory Cortex". Nature, 2015. |
 |  | Darjan | Bönstrup, Marlene, et al. "A Rapid Form of Offline Consolidation in Skill Learning." Current Biology (2019). |
 |  |  | Triefenbach, Fabian, et al. "Phoneme recognition with large hierarchical reservoirs." Advances in neural information |
 |  | Michael | Saxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011. |
