@@ -18,10 +18,10 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **09.05.2019** | *Rapid fire session* |
-|  | Anand | Karnani, M.M., Agetsuma, M., and Yuste, R. (2014). A blanket of inhibition: functional inferences from dense inhibitory connectivity. Current Opinion in Neurobiology 26, 96–102. |
-|  |  | Nigam, S., Shimono, M., Ito, S., Yeh, F.-C., Timme, N., Myroshnychenko, M., Lapish, C.C., Tosi, Z., Hottowy, P., Smith, W.C., et al. (2016). Rich-Club Organization in Effective Connectivity among Cortical Neurons. J. Neurosci. 36, 670–684. |
+|  | Anand | Karnani, Mahesh M., et al. "A Blanket of Inhibition: Functional Inferences from Dense Inhibitory Connectivity". Current Opinion in Neurobiology, 2014 |
+|  |  | Nigam, Sunny, et al. "Rich-Club Organization in Effective Connectivity among Cortical Neurons". Journal of Neuroscience, 2016 |
 |  | Darjan | Bönstrup, Marlene, et al. "A Rapid Form of Offline Consolidation in Skill Learning." Current Biology (2019). |
-|  |  | Triefenbach, Fabian, et al. "Phoneme recognition with large hierarchical reservoirs." Advances in neural information 
+|  |  | Triefenbach, Fabian, et al. "Phoneme recognition with large hierarchical reservoirs." Advances in neural information |
 |  | Michael | Saxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011. |
 |  | Philipp | Frady, Edward & Sommer, Friedrich. "Robust computation with rhythmic spike patterns." arxiv preprint: arXiv:1901.07718 (2019) |
 |  | Arjun | Akrout, M., Wilson, C., Humphreys, P. C., Lillicrap, T., & Tweed, D. (2019). Using Weight Mirrors to Improve Feedback Alignment. arXiv preprint arXiv:1904.05391 |
