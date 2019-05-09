@@ -18,6 +18,8 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **09.05.2019** | *Rapid fire session* |
+|  | Anand | Karnani, M.M., Agetsuma, M., and Yuste, R. (2014). A blanket of inhibition: functional inferences from dense inhibitory connectivity. Current Opinion in Neurobiology 26, 96–102. |
+|  |  | Nigam, S., Shimono, M., Ito, S., Yeh, F.-C., Timme, N., Myroshnychenko, M., Lapish, C.C., Tosi, Z., Hottowy, P., Smith, W.C., et al. (2016). Rich-Club Organization in Effective Connectivity among Cortical Neurons. J. Neurosci. 36, 670–684. |
 |  | Darjan | Bönstrup, Marlene, et al. "A Rapid Form of Offline Consolidation in Skill Learning." Current Biology (2019). |
 |  |  | Triefenbach, Fabian, et al. "Phoneme recognition with large hierarchical reservoirs." Advances in neural information 
 |  | Michael | Saxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011. |
