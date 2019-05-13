@@ -17,15 +17,6 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **09.05.2019** | *Rapid fire session* |
-|  | Anand | Karnani, Mahesh M., et al. "A Blanket of Inhibition: Functional Inferences from Dense Inhibitory Connectivity". Current Opinion in Neurobiology, 2014 |
-|  |  | Okun, Michael, et al. "Diverse Coupling of Neurons to Populations in Sensory Cortex". Nature, 2015. |
-|  | Darjan | Bönstrup, Marlene, et al. "A Rapid Form of Offline Consolidation in Skill Learning." Current Biology (2019). |
-|  |  | Triefenbach, Fabian, et al. "Phoneme recognition with large hierarchical reservoirs." Advances in neural information |
-|  | Michael | Saxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011. |
-|  | Philipp | Frady, Edward & Sommer, Friedrich. "Robust computation with rhythmic spike patterns." arxiv preprint: arXiv:1901.07718 (2019) |
-|  | Arjun | Akrout, M., Wilson, C., Humphreys, P. C., Lillicrap, T., & Tweed, D. (2019). Using Weight Mirrors to Improve Feedback Alignment. arXiv preprint arXiv:1904.05391 |
-|  | Ceca | Behrens, Timothy E. J., et al. “What Is a Cognitive Map? Organising Knowledge for Flexible Behaviour.” 2018, doi:10.1101/365593.; LINK: https://www.cell.com/neuron/pdf/S0896-6273(18)30856-0.pdf |
 | **16.05.2019** | Elias | tba |
 | **tba** | Franz | Hung, Chia-Chun, et al. "Optimizing agent behavior over long time scales by transporting value." arXiv preprint arXiv:1810.06721 (2018) |
 | **tba** | Guillaume | tba |
@@ -45,6 +36,15 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **09.05.2019** | *Rapid fire session* |
+|  | Anand | Karnani, Mahesh M., et al. "A Blanket of Inhibition: Functional Inferences from Dense Inhibitory Connectivity". Current Opinion in Neurobiology, 2014 |
+|  |  | Okun, Michael, et al. "Diverse Coupling of Neurons to Populations in Sensory Cortex". Nature, 2015. |
+|  | Darjan | Bönstrup, Marlene, et al. "A Rapid Form of Offline Consolidation in Skill Learning." Current Biology (2019). |
+|  |  | Triefenbach, Fabian, et al. "Phoneme recognition with large hierarchical reservoirs." Advances in neural information |
+|  | Michael | Saxe, Andrew M., et al. "On Random Weights and Unsupervised Feature Learning." ICML. Vol. 2. No. 3. 2011. |
+|  | Philipp | Frady, Edward & Sommer, Friedrich. "Robust computation with rhythmic spike patterns." arxiv preprint: arXiv:1901.07718 (2019) |
+|  | Arjun | Akrout, M., Wilson, C., Humphreys, P. C., Lillicrap, T., & Tweed, D. (2019). Using Weight Mirrors to Improve Feedback Alignment. arXiv preprint arXiv:1904.05391 |
+|  | Ceca | Behrens, Timothy E. J., et al. “What Is a Cognitive Map? Organising Knowledge for Flexible Behaviour.” 2018, doi:10.1101/365593.; LINK: https://www.cell.com/neuron/pdf/S0896-6273(18)30856-0.pdf |
 | **18.04.2019** | Ceca | O’Reilly, Randall C., Thomas E. Hazy, and Seth A. Herd. "The Leabra Cognitive Architecture: How to Play 20 Principles with Nature.​." The Oxford handbook of cognitive science 91 (2016): 91-116. |
 | **11.04.2019** | Darjan | Krotov, Dmitry, and John J. Hopfield. "Unsupervised learning by competing hidden units." Proceedings of the National Academy of Sciences (2019): 201820458. |
 | **20.03.2019** | Arjun | Koutnik, Jan, et al. "A clockwork rnn." arXiv preprint arXiv:1402.3511 (2014). |
