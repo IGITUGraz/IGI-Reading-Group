@@ -19,6 +19,8 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **tba** | Franz | Hung, Chia-Chun, et al. "Optimizing agent behavior over long time scales by transporting value." arXiv preprint arXiv:1810.06721 (2018) |
 | **tba** | Guillaume | tba |
+| **tba** | Horst | tba |
+| **tba** | Michael | tba |
 
 ## Wishlist
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
