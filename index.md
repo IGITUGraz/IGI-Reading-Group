@@ -18,7 +18,7 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **tba** | Guillaume | tba |
-| **04.07.2019** | Horst | [Hämäläinen, Perttu, et al. "PPO-CMA: Proximal Policy Optimization with Covariance Matrix Adaptation." arXiv preprint (2018).](https://arxiv.org/pdf/1810.02541.pdf) |
+| **tba** | Horst | tba |
 | **tba** | Michael | tba |
 
 ## Wishlist
