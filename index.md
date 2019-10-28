@@ -36,6 +36,7 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **28.10.2019** | Darjan | Nayebi, Aran, et al. ["Task-driven Convolutional Recurrent Models of the Visual System" arXiv preprint arXiv:1807.00053 (2018)](https://arxiv.org/abs/1807.00053) |
 | **07.06.2019** | Franz | Hung, Chia-Chun, et al. "Optimizing agent behavior over long time scales by transporting value." arXiv preprint arXiv:1810.06721 (2018) |
 | **16.05.2019** | Elias | Frankle, Jonathan, and Michael Carbin. "The lottery ticket hypothesis: Finding sparse, trainable neural networks." arXiv preprint arXiv:1803.03635 (2018). |
 | **09.05.2019** | *Rapid fire session* |
