@@ -37,7 +37,7 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **29.10.2019** | Darjan | [Nayebi, Aran, et al. "Task-Driven convolutional recurrent models of the visual system." Advances in Neural Information Processing Systems. 2018.](https://arxiv.org/abs/1807.00053) |
 | **27.09.2019** | Horst | [Marblestone, Adam H., Greg Wayne, and Konrad P. Kording. "Toward an integration of deep learning and neuroscience." Frontiers in computational neuroscience 10 (2016): 94.](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full) |
-| **28.10.2019** | Darjan | Nayebi, Aran, et al. ["Task-driven Convolutional Recurrent Models of the Visual System" arXiv preprint arXiv:1807.00053 (2018)](https://arxiv.org/abs/1807.00053) |
+| **28.10.2019** | Darjan | [Nayebi, Aran, et al. "Task-Driven convolutional recurrent models of the visual system." Advances in Neural Information Processing Systems. 2018.](https://arxiv.org/abs/1807.00053) |
 | **07.06.2019** | Franz | Hung, Chia-Chun, et al. "Optimizing agent behavior over long time scales by transporting value." arXiv preprint arXiv:1810.06721 (2018) |
 | **16.05.2019** | Elias | Frankle, Jonathan, and Michael Carbin. "The lottery ticket hypothesis: Finding sparse, trainable neural networks." arXiv preprint arXiv:1803.03635 (2018). |
 | **09.05.2019** | *Rapid fire session* |
