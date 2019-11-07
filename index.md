@@ -17,9 +17,8 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **tba** | Guillaume | tba |
-| **tba** | Horst | tba |
-| **tba** | Michael | tba |
+| **11.11.2019** | Michael | [Habenschuss, Stefan, Zeno Jonke, and Wolfgang Maass. "Stochastic computations in cortical microcircuit models." PLoS computational biology 9.11 (2013): e1003311.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003311) |
+| | | [Berkes, Pietro, et al. "Spontaneous cortical activity reveals hallmarks of an optimal internal model of the environment." Science 331.6013 (2011): 83-87.](https://science.sciencemag.org/content/331/6013/83.short) |
 
 ## Wishlist
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
@@ -36,6 +35,8 @@ Anand, Arjun, Ceca, Darjan, Elias, Franz, Guillaume, Horst, Michael, Philipp, Th
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **29.10.2019** | Darjan | [Nayebi, Aran, et al. "Task-Driven convolutional recurrent models of the visual system." Advances in Neural Information Processing Systems. 2018.](https://arxiv.org/abs/1807.00053) |
+| **27.09.2019** | Horst | [Marblestone, Adam H., Greg Wayne, and Konrad P. Kording. "Toward an integration of deep learning and neuroscience." Frontiers in computational neuroscience 10 (2016): 94.](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full) |
 | **28.10.2019** | Darjan | Nayebi, Aran, et al. ["Task-driven Convolutional Recurrent Models of the Visual System" arXiv preprint arXiv:1807.00053 (2018)](https://arxiv.org/abs/1807.00053) |
 | **07.06.2019** | Franz | Hung, Chia-Chun, et al. "Optimizing agent behavior over long time scales by transporting value." arXiv preprint arXiv:1810.06721 (2018) |
 | **16.05.2019** | Elias | Frankle, Jonathan, and Michael Carbin. "The lottery ticket hypothesis: Finding sparse, trainable neural networks." arXiv preprint arXiv:1803.03635 (2018). |
