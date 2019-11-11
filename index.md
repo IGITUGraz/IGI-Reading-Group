@@ -11,7 +11,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 ## Current presentation cycle
 
-Anand, Arjun, Ceca, Darjan, Elias, Florian, Franz, Horst, Martin, Michael, Philipp, Thomas L.
+Anand, Arjun, Ceca, Christoph, Darjan, Elias, Florian, Franz, Horst, Martin, Michael, Philipp, Thomas L.
 
 ## Upcoming meetings
 
