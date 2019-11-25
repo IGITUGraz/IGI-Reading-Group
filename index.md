@@ -18,7 +18,7 @@ Anand, Arjun, Ceca, Christoph, Darjan, Elias, Florian, Franz, Horst, Martin, Mic
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **11.11.2019** | *Special session* |  |
-| | Florian | [Barrett, David GT, Sophie Deneve, and Christian K. Machens. "Optimal compensation for neuron loss." Elife 5 (2016): e12454.](https://cdn.elifesciences.org/articles/12454/elife-12454-v1.pdf) |
+| | Florian | [Barrett, David GT, Sophie Deneve, and Christian K. Machens. "Optimal compensation for neuron loss." Elife 5 (2016): e12454.](https://cdn.elifesciences.org/articles/12454/elife-12454-v2.pdf) |
 | | Franz | [Voelker, Aaron R., and Chris Eliasmith. "Improving spiking dynamical networks: Accurate delays, higher-order synapses, and time cells." Neural computation 30.3 (2018): 569-609.](https://www.mitpressjournals.org/doi/pdf/10.1162/neco_a_01046) |
 | |  | [Voelker, Aaron, Ivana Kajić, and Chris Eliasmith. "Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks." Advances in Neural Information Processing Systems. 2019.](https://papers.nips.cc/paper/9689-legendre-memory-units-continuous-time-representation-in-recurrent-neural-networks.pdf) |
 | | Arjun | [Frady, E. Paxon, and Friedrich T. Sommer. "Robust computation with rhythmic spike patterns." Proceedings of the National Academy of Sciences 116.36 (2019): 18050-18059.](https://www.pnas.org/content/pnas/116/36/18050.full.pdf) |
