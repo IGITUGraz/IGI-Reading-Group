@@ -33,8 +33,7 @@ Anand, Arjun, Ceca, Christoph, Darjan, Elias, Florian, Franz, Horst, Martin, Mic
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| **02.12.2019** | Philipp | [
-Improved robustness of reinforcement learning policies upon conversion to spiking neuronal network platforms applied to ATARI games](https://arxiv.org/abs/1903.11012) |
+| **02.12.2019** | Philipp | [Improved robustness of reinforcement learning policies upon conversion to spiking neuronal network platforms applied to ATARI games](https://arxiv.org/abs/1903.11012) |
 | **25.11.2019** | *Special session* |  |
 | | Florian | [Barrett, David GT, Sophie Deneve, and Christian K. Machens. "Optimal compensation for neuron loss." Elife 5 (2016): e12454.](https://elifesciences.org/articles/12454) |
 | | Franz | [Voelker, Aaron R., and Chris Eliasmith. "Improving spiking dynamical networks: Accurate delays, higher-order synapses, and time cells." Neural computation 30.3 (2018): 569-609.](https://www.mitpressjournals.org/doi/10.1162/neco_a_01046) |
