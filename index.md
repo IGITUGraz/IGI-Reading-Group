@@ -17,7 +17,7 @@ Anand, Arjun, Ceca, Christoph, Darjan, Elias, Florian, Franz, Horst, Martin, Mic
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **tba** | Thomas |  |
+| **06.12.2019** | Thomas | [Henaff, Mikael, et al. "Tracking the world state with recurrent entity networks." arXiv preprint arXiv:1612.03969 (2016).](https://arxiv.org/abs/1612.03969) |
 
 ## Wishlist
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
