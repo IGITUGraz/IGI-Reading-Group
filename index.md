@@ -17,7 +17,7 @@ Anand, Arjun, Ceca, Christoph, Darjan, Elias, Florian, Franz, Horst, Martin, Mic
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **06.12.2019** | Thomas | [Henaff, Mikael, et al. "Tracking the world state with recurrent entity networks." arXiv preprint arXiv:1612.03969 (2016).](https://arxiv.org/abs/1612.03969) |
+| **tba** | tba |  |
 
 ## Wishlist
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
@@ -33,6 +33,7 @@ Anand, Arjun, Ceca, Christoph, Darjan, Elias, Florian, Franz, Horst, Martin, Mic
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **06.12.2019** | Thomas | [Henaff, Mikael, et al. "Tracking the world state with recurrent entity networks." arXiv preprint arXiv:1612.03969 (2016).](https://arxiv.org/abs/1612.03969) |
 | **02.12.2019** | Philipp | [Patel, Devdhar, et al. "Improved robustness of reinforcement learning policies upon conversion to spiking neuronal network platforms applied to ATARI games." arXiv preprint arXiv:1903.11012 (2019).](https://arxiv.org/abs/1903.11012) |
 | **25.11.2019** | *Special session* |  |
 | | Florian | [Barrett, David GT, Sophie Deneve, and Christian K. Machens. "Optimal compensation for neuron loss." Elife 5 (2016): e12454.](https://elifesciences.org/articles/12454) |
