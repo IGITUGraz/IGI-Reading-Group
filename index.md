@@ -33,6 +33,7 @@ Anand, Arjun, Ceca, Christoph, Darjan, Elias, Florian, Franz, Horst, Martin, Mic
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **03.02.2020** | Ceca | [Introduction to ANOVA analysis (a chapter from the book Analysis of Neural Data (Kass, Eden, Brown))] |
 | **06.12.2019** | Thomas | [Henaff, Mikael, et al. "Tracking the world state with recurrent entity networks." arXiv preprint arXiv:1612.03969 (2016).](https://arxiv.org/abs/1612.03969) |
 | **02.12.2019** | Philipp | [Patel, Devdhar, et al. "Improved robustness of reinforcement learning policies upon conversion to spiking neuronal network platforms applied to ATARI games." arXiv preprint arXiv:1903.11012 (2019).](https://arxiv.org/abs/1903.11012) |
 | **25.11.2019** | *Special session* |  |
