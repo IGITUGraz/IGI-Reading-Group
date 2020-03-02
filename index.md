@@ -17,7 +17,7 @@ Anand, Arjun, Ceca, Christoph, Elias, Florian, Franz, Horst, Martin, Michael, Ph
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **28.02.2020** | Luca | [Hudson, Drew A., and Christopher D. Manning. "Compositional attention networks for machine reasoning." arXiv preprint arXiv:1803.03067 (2018).](https://arxiv.org/abs/1803.03067) |
+| **02.03.2020** | Luca | [Hudson, Drew A., and Christopher D. Manning. "Compositional attention networks for machine reasoning." arXiv preprint arXiv:1803.03067 (2018).](https://arxiv.org/abs/1803.03067) |
 | **tba** | tba |  |
 
 ## Wishlist
