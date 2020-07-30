@@ -17,7 +17,7 @@ Anand, Arjun, Ceca, Christoph, Elias, Florian, Franz, Horst, Martin, Michael, Ph
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **30.07.2020** | Arjun | [Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules](https://arxiv.org/abs/2006.16981) |
+| **30.07.2020** | Arjun | [Mittal, Sarthak, et al. "Learning to combine top-down and bottom-up signals in recurrent neural networks with attention over modules." arXiv preprint arXiv:2006.16981 (2020).](https://arxiv.org/abs/2006.16981) |
 |  |  | [Goyal, Anirudh, et al. "Recurrent independent mechanisms." arXiv preprint arXiv:1909.10893 (2019).](https://arxiv.org/abs/1909.10893) |
 | **tba** | tba |  |
 
