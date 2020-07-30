@@ -17,7 +17,8 @@ Anand, Arjun, Ceca, Christoph, Elias, Florian, Franz, Horst, Martin, Michael, Ph
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **02.03.2020** | Luca | [Hudson, Drew A., and Christopher D. Manning. "Compositional attention networks for machine reasoning." arXiv preprint arXiv:1803.03067 (2018).](https://arxiv.org/abs/1803.03067) |
+| **30.07.2020** | Arjun | [Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules](https://arxiv.org/abs/2006.16981) |
+|  |  | [Goyal, Anirudh, et al. "Recurrent independent mechanisms." arXiv preprint arXiv:1909.10893 (2019).](https://arxiv.org/abs/1909.10893) |
 | **tba** | tba |  |
 
 ## Wishlist
@@ -34,6 +35,7 @@ Anand, Arjun, Ceca, Christoph, Elias, Florian, Franz, Horst, Martin, Michael, Ph
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **02.03.2020** | Luca | [Hudson, Drew A., and Christopher D. Manning. "Compositional attention networks for machine reasoning." arXiv preprint arXiv:1803.03067 (2018).](https://arxiv.org/abs/1803.03067) |
 | **24.02.2020** | Arjun | [Schrittwieser, Julian, et al. "Mastering atari, go, chess and shogi by planning with a learned model." arXiv preprint arXiv:1911.08265 (2019).](https://arxiv.org/abs/1911.08265) |
 | **03.02.2020** | Ceca | Introduction to ANOVA analysis (in Kass, Robert E., Uri T. Eden, and Emery N. Brown. Analysis of neural data. Vol. 491. New York: Springer, 2014.) |
 |  |  | [Lindsay, Grace W., et al. "Hebbian learning in a random network captures selectivity properties of the prefrontal cortex." Journal of Neuroscience 37.45 (2017): 11021-11036.](https://doi.org/10.1523/JNEUROSCI.1222-17.2017)|
