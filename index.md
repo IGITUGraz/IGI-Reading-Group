@@ -3,38 +3,42 @@ title: IGI Reading Group
 ---
 
 # IGI Reading Group
-The IGI Reading Group is the informal reading group a.k.a Journal Club of [IGI](http://www.igi.tugraz.at) where we meet about once a week and discuss papers that are related to our research, of general interest, or just some paper one of us found cool.
+The IGI Reading Group is the informal Journal Club of [IGI](http://www.igi.tugraz.at) where we meet about once a week and discuss papers that are more or less related to our research,.
 
-The journal club (usually) takes place on Fridays 14:00 in the former IGI Library.
+The journal club (usually) takes place on Fridays 14:00 in the former IGI Library. **Note: will change for WS 2020.**
 
 If you're from outside IGI and would like to attend a particular session, contact `mueller [at] igi.tugraz.at`.
 
 ## Current presentation cycle
 
-Anand, Arjun, Ceca, Christoph, Florian, Franz, Horst, Martin, Michael, Philipp, Samuel, Thomas L.
+Arjun, Ceca, Christoph, Dominik, Florian, Franz, Horst,Michael, Ozan, Philipp, Roland, Samuel, Spela, Thomas L.
 
 ## Upcoming meetings
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **30.07.2020** | Arjun | [Mittal, Sarthak, et al. "Learning to combine top-down and bottom-up signals in recurrent neural networks with attention over modules." arXiv preprint arXiv:2006.16981 (2020).](https://arxiv.org/abs/2006.16981) |
-|  |  | [Goyal, Anirudh, et al. "Recurrent independent mechanisms." arXiv preprint arXiv:1909.10893 (2019).](https://arxiv.org/abs/1909.10893) |
-| **tba** | tba |  |
+| **tba** | Ceca |  |
+| **tba** | Christoph |  |
+| **tba** | Florian |  |
 
 ## Wishlist
+
+Feel free to add papers of interest.
+
 * Malherbe, Cédric, and Nicolas Vayatis. "Global optimization of Lipschitz functions." arXiv preprint arXiv:1703.02628 (2017).
 * Jin, Chi, et al. "How to escape saddle points efficiently." arXiv preprint arXiv:1703.00887 (2017).
-* **IGI**: Legenstein, Robert, Christian Naeger, and Wolfgang Maass. "What can a neuron learn with spike-timing-dependent plasticity?." Neural computation 17.11 (2005): 2337-2382.
-* **IGI**: Legenstein, Robert, and Wolfgang Maass. "On the classification capability of sign-constrained perceptrons." Neural Computation 20.1 (2008): 288-309.
 * Jolivet, Renaud, et al. "Predicting spike timing of neocortical pyramidal neurons by simple threshold models." Journal of computational neuroscience 21.1 (2006): 35-49.
 * **IGI**: Nessler, Bernhard, et al. "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity." PLoS Comput Biol 9.4 (2013): e1003037.
 * Constantinople, Christine M., and Randy M. Bruno. "Deep cortical layers are activated directly by thalamus." Science 340.6140 (2013): 1591-1594.
-* LDA: Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." Journal of machine Learning research 3.Jan (2003): 993-1022.
 
 ## Past meetings
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **30.09.2020** | Michael | [Frankland, Steven M., and Joshua D. Greene. "Concepts and compositionality: in search of the brain's language of thought." Annual review of psychology 71 (2020): 273-303.](https://www.annualreviews.org/doi/full/10.1146/annurev-psych-122216-011829) [(pdf)](http://www.joshua-greene.net/s/Frankland-Greene-Concepts-Compositionality-LoT-AnnRevPsy20.pdf) |
+|  |  | [Goyal, Anirudh, et al. "Recurrent independent mechanisms." arXiv preprint arXiv:1909.10893 (2019).](https://arxiv.org/abs/1909.10893) |
+| **30.07.2020** | Arjun | [Mittal, Sarthak, et al. "Learning to combine top-down and bottom-up signals in recurrent neural networks with attention over modules." arXiv preprint arXiv:2006.16981 (2020).](https://arxiv.org/abs/2006.16981) |
+|  |  | [Goyal, Anirudh, et al. "Recurrent independent mechanisms." arXiv preprint arXiv:1909.10893 (2019).](https://arxiv.org/abs/1909.10893) |
 | **02.03.2020** | Luca | [Hudson, Drew A., and Christopher D. Manning. "Compositional attention networks for machine reasoning." arXiv preprint arXiv:1803.03067 (2018).](https://arxiv.org/abs/1803.03067) |
 | **24.02.2020** | Arjun | [Schrittwieser, Julian, et al. "Mastering atari, go, chess and shogi by planning with a learned model." arXiv preprint arXiv:1911.08265 (2019).](https://arxiv.org/abs/1911.08265) |
 | **03.02.2020** | Ceca | Introduction to ANOVA analysis (in Kass, Robert E., Uri T. Eden, and Emery N. Brown. Analysis of neural data. Vol. 491. New York: Springer, 2014.) |
