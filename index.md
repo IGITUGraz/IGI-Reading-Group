@@ -5,7 +5,7 @@ title: IGI Reading Group
 # IGI Reading Group
 The IGI Reading Group is the informal Journal Club of [IGI](http://www.igi.tugraz.at) where we meet about once a week and discuss papers that are more or less related to our research,.
 
-In the WS 2020/21, the journal club will take place on Tuesdays at 14:30 in the IGI seminar room.
+In the WS 2020/21, the journal club will take place every Tuesday at 11:00 in the IGI seminar room.
 
 If you're from outside IGI and would like to attend a particular session, contact `mueller [at] igi.tugraz.at`.
 
@@ -17,7 +17,7 @@ Arjun, Ceca, Christoph, Dominik, Florian, Franz, Horst, Michael, Ozan, Philipp, 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **13.10.2020** | Ceca |  |
+| **13.10.2020** | Ceca | [Fitz, Hartmut, et al. "Neuronal spike-rate adaptation supports working memory in language processing." Proceedings of the National Academy of Sciences 117.34 (2020): 20881-20889.](https://www.pnas.org/node/945545.full) |
 | **20.10.2020** | Christoph |  |
 | **27.10.2020** | Florian |  |
 
