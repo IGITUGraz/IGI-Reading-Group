@@ -17,9 +17,9 @@ Arjun, Ceca, Christoph, Dominik, Florian, Franz, Horst, Michael, Ozan, Philipp, 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **27.10.2020** | Florian | [Reimann, Michael W., et al. "Cliques of neurons bound into cavities provide a missing link between structure and function." Frontiers in computational neuroscience 11 (2017): 48.](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full) |
 | **03.11.2020** | Franz |  |
 | **10.11.2020** | Horst |  |
+| **17.11.2020** | Ozan |  |
 
 ## Wishlist
 
@@ -35,6 +35,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **27.10.2020** | Florian | [Reimann, Michael W., et al. "Cliques of neurons bound into cavities provide a missing link between structure and function." Frontiers in computational neuroscience 11 (2017): 48.](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full) |
 | **20.10.2020** | Christoph | [Nieder, Andreas. "Neural constraints on human number concepts." Current Opinion in Neurobiology 60 (2020): 28-36.](https://www.sciencedirect.com/science/article/abs/pii/S0959438819301102) |
 | **13.10.2020** | Ceca | [Fitz, Hartmut, et al. "Neuronal spike-rate adaptation supports working memory in language processing." Proceedings of the National Academy of Sciences 117.34 (2020): 20881-20889.](https://www.pnas.org/node/945545.full) |
 | **30.09.2020** | Michael | [Frankland, Steven M., and Joshua D. Greene. "Concepts and compositionality: in search of the brain's language of thought." Annual review of psychology 71 (2020): 273-303.](https://www.annualreviews.org/doi/full/10.1146/annurev-psych-122216-011829) [(pdf)](http://www.joshua-greene.net/s/Frankland-Greene-Concepts-Compositionality-LoT-AnnRevPsy20.pdf) |
