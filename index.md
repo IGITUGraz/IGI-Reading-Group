@@ -17,7 +17,7 @@ Arjun, Ceca, Christoph, Dominik, Florian, Franz, Horst, Michael, Ozan, Philipp, 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **03.11.2020** | Franz |  |
+| **03.11.2020** | Franz | [Ramsauer, Hubert, et al. "Hopfield networks is all you need." arXiv preprint arXiv:2008.02217 (2020).](https://arxiv.org/abs/2008.02217) |
 | **10.11.2020** | Horst |  |
 | **17.11.2020** | Ozan |  |
 
