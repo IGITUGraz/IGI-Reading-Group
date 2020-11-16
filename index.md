@@ -11,7 +11,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 ## Current presentation cycle
 
-Arjun, Ceca, Christoph, Dominik, Florian, Franz, Horst, Michael, Ozan, Roland, Samuel, Spela, Thomas L.
+Arjun, Ceca, Christoph, Dominik, Florian, Franz, Horst, Michael, Ozan, Roland, Romain, Samuel, Spela, Thomas L.
 
 ## Upcoming meetings
 
