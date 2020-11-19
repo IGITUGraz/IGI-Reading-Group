@@ -11,15 +11,15 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 ## Current presentation cycle
 
-Ceca, Christoph, Dominik, Florian, Franz, Horst, Michael, Ozan, Roland, Romain, Samuel, Spela, Thomas L.
+Ceca, Christoph, Dominik, Florian, Franz, Horst, Michael, Ozan, Roland, Romain, Samuel, Špela, Thomas L.
 
 ## Upcoming meetings
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **17.11.2020** | Ozan | [Dapello, Joel, et al. "Simulating a primary visual cortex at the front of CNNs improves robustness to image perturbations." Advances in Neural Information Processing Systems 33 (2020).](https://proceedings.neurips.cc/paper/2020/hash/98b17f068d5d9b7668e19fb8ae470841-Abstract.html) |
 | **24.11.2020** | Roland |  |
 | **01.12.2020** | Samuel |  |
+| **15.12.2020** | Špela |  |
 
 ## Wishlist
 
@@ -34,6 +34,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **17.11.2020** | Ozan | [Dapello, Joel, et al. "Simulating a primary visual cortex at the front of CNNs improves robustness to image perturbations." Advances in Neural Information Processing Systems 33 (2020).](https://proceedings.neurips.cc/paper/2020/hash/98b17f068d5d9b7668e19fb8ae470841-Abstract.html) |
 | **10.11.2020** | Horst | [Sharma, Archit, et al. "Dynamics-aware unsupervised discovery of skills." arXiv preprint arXiv:1907.01657 (2019).](https://arxiv.org/abs/1907.01657) |
 | **03.11.2020** | Franz | [Ramsauer, Hubert, et al. "Hopfield networks is all you need." arXiv preprint arXiv:2008.02217 (2020).](https://arxiv.org/abs/2008.02217) |
 | **27.10.2020** | Florian | [Reimann, Michael W., et al. "Cliques of neurons bound into cavities provide a missing link between structure and function." Frontiers in computational neuroscience 11 (2017): 48.](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full) |
