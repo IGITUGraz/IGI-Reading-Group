@@ -17,7 +17,7 @@ Ceca, Christoph, Dominik, Florian, Franz, Horst, Michael, Ozan, Philipp, Roland,
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **01.12.2020** | Samuel |  |
+| **01.12.2020** | Samuel | [Psychedelics Promote Structural and Functional Neural Plasticity](https://www.sciencedirect.com/science/article/pii/S2211124718307551) |
 | **15.12.2020** | Špela |  |
 | **12.01.2021** | Thomas L. |  |
 
