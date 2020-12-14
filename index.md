@@ -3,7 +3,8 @@ title: IGI Reading Group
 ---
 
 # IGI Reading Group
-The IGI Reading Group is the informal Journal Club of [IGI](http://www.igi.tugraz.at) where we meet about once a week and discuss papers that are in some way related to our research.
+
+The IGI Reading Group is the informal Journal Club of [IGI](http://www.igi.tugraz.at) where we meet about once a week and discuss papers that are related to our research.
 
 In the WS 2020/21, the journal club will take place every Tuesday at 11:00 in the IGI seminar room.
 
@@ -15,15 +16,24 @@ Ceca, Christoph, Dominik, Florian, Franz, Horst, Michael, Ozan, Philipp, Roland,
 
 ## Presentations
 
-Presentations should convey the relevant findings from your selected paper with a focus on our group, i.e. also prepare the relevant background information, important concepts from the cited literature, etc. required to understand the paper. Journal club sessions should help our research by improving our knowledge in our fields and inspiring new ideas.
+Please present papers that have some direct relevance for our work: e.g. machine learning papers describing relevant developments in the field like new methods or architectures, or experimental papers discussing new data for our models or analysis methods for our experiments. Presented works should enhance our knowledge and provide inspiration for our research.
+
+Presentations should convey the relevant findings from your selected paper with a focus on our group, i.e. also prepare the relevant background information, important concepts from the cited literature, etc. required to understand the main findings. You don't need to prepare slides.
+
+Start your presentation by giving a 5-minute overview before going into the details. The intro should include:
+
+* Which lab / group are the authors from, and what is their specialization?
+* What is (in 1 sentence) the main finding of the paper?
+* Why and how is it relevant for our work?
+* How did you find the paper?
 
 ## Upcoming meetings
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **01.12.2020** | Samuel | [Ly, Calvin, et al. "Psychedelics promote structural and functional neural plasticity." Cell reports 23.11 (2018): 3170-3182.](https://www.sciencedirect.com/science/article/pii/S2211124718307551) |
-| **15.12.2020** | Špela |  |
-| **12.01.2021** | Thomas L. |  |
+| **12.01.2020** | Špela |  |
+| **19.01.2021** | Florian |  |
+| **26.01.2021** | Thomas L. |  |
 
 ## Wishlist
 
@@ -38,6 +48,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **01.12.2020** | Samuel | [Ly, Calvin, et al. "Psychedelics promote structural and functional neural plasticity." Cell reports 23.11 (2018): 3170-3182.](https://www.sciencedirect.com/science/article/pii/S2211124718307551) |
 | **24.11.2020** | Roland | [Rajeswaran, Aravind, et al. "Meta-learning with implicit gradients." Advances in Neural Information Processing Systems. 2019.](https://arxiv.org/abs/1909.04630) |
 | **17.11.2020** | Ozan | [Dapello, Joel, et al. "Simulating a primary visual cortex at the front of CNNs improves robustness to image perturbations." Advances in Neural Information Processing Systems 33 (2020).](https://proceedings.neurips.cc/paper/2020/hash/98b17f068d5d9b7668e19fb8ae470841-Abstract.html) |
 | **10.11.2020** | Horst | [Sharma, Archit, et al. "Dynamics-aware unsupervised discovery of skills." arXiv preprint arXiv:1907.01657 (2019).](https://arxiv.org/abs/1907.01657) |
