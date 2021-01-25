@@ -31,8 +31,7 @@ Start your presentation by giving a 5-minute overview before going into the deta
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **19.01.2021** | Florian | [Levina, Anna, J. Michael Herrmann, and Manfred Denker. "Critical branching processes in neural networks." PAMM: Proceedings in Applied Mathematics and Mechanics. Vol. 7. No. 1. Berlin: WILEY‐VCH Verlag, 2007.](https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.200700029) |
-| **26.01.2021** | Thomas L. |  |
+| **26.01.2021** | Thomas L. | [Radford, Alec, et al. "Learning Transferable Visual Models From Natural Language Supervision." Image 2: T2.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf) |
 
 ## Wishlist
 
@@ -47,6 +46,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **19.01.2021** | Florian | [Levina, Anna, J. Michael Herrmann, and Manfred Denker. "Critical branching processes in neural networks." PAMM: Proceedings in Applied Mathematics and Mechanics. Vol. 7. No. 1. Berlin: WILEY‐VCH Verlag, 2007.](https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.200700029) |
 | **12.01.2020** | Špela | [Young, Benjamin D., James A. Escalon, and Dennis Mathew. "Odors: from chemical structures to gaseous plumes." Neuroscience & Biobehavioral Reviews 111 (2020): 19-29.](https://www.sciencedirect.com/science/article/abs/pii/S0149763419301459) |
 | **01.12.2020** | Samuel | [Ly, Calvin, et al. "Psychedelics promote structural and functional neural plasticity." Cell reports 23.11 (2018): 3170-3182.](https://www.sciencedirect.com/science/article/pii/S2211124718307551) |
 | **24.11.2020** | Roland | [Rajeswaran, Aravind, et al. "Meta-learning with implicit gradients." Advances in Neural Information Processing Systems. 2019.](https://arxiv.org/abs/1909.04630) |
