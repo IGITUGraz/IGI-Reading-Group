@@ -31,6 +31,12 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **02.03.2021** | Ceca | [Kendall, Jack, et al. "Training End-to-End Analog Neural Networks with Equilibrium Propagation." arXiv preprint arXiv:2006.01981 (2020).](https://arxiv.org/abs/2006.01981) |
+| **09.03.2021** | Christoph | []() |
+| **16.03.2021** | Dominik | []() |
+| **23.03.2021** | Florian | []() |
+| **30.03.2021** | Franz | []() |
+| **13.04.2021** | tba | []() |
 
 ## Wishlist
 
