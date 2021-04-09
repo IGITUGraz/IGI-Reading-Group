@@ -31,12 +31,10 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **24.03.2021** | Florian | [Motta, Alessandro, et al. "Dense connectomic reconstruction in layer 4 of the somatosensory cortex." Science 366.6469 (2019).](https://science.sciencemag.org/content/366/6469/eaay3134) |
-|  |   | [Billeh, Yazan N., et al. "Systematic integration of structural and functional data into multi-scale models of mouse primary visual cortex." Neuron 106.3 (2020): 388-403.](https://www.cell.com/neuron/fulltext/S0896-6273(20)30067-2) |
-|  |   | [Rees, Christopher L., Keivan Moradi, and Giorgio A. Ascoli. "Weighing the evidence in Peters’ rule: does neuronal morphology predict connectivity?." Trends in neurosciences 40.2 (2017): 63-71.](https://www.sciencedirect.com/science/article/abs/pii/S0166223616301758) ([pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5285450/pdf/nihms834918.pdf)) |
-| **31.03.2021** | Franz | []() |
 | **14.04.2021** | Guozhang | []() |
 | **21.04.2021** | Horst | []() |
+| **28.04.2021** | Michael | []() |
+| **05.05.2021** | Ozan | []() |
 
 ## Wishlist
 
@@ -51,6 +49,13 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **31.03.2021** | Franz | [Hyvärinen, Aapo, and Peter Dayan. "Estimation of non-normalized statistical models by score matching." Journal of Machine Learning Research 6.4 (2005).](https://jmlr.org/papers/v6/hyvarinen05a.html) |
+|  |  | [Song, Yang, and Stefano Ermon. "Generative modeling by estimating gradients of the data distribution." arXiv preprint arXiv:1907.05600 (2019).](https://arxiv.org/abs/1907.05600) |
+|  |  | [Ho, Jonathan, Ajay Jain, and Pieter Abbeel. "Denoising diffusion probabilistic models." arXiv preprint arXiv:2006.11239 (2020).](https://arxiv.org/abs/2006.11239) |
+|  |  | [Song, Yang, et al. "Score-Based Generative Modeling through Stochastic Differential Equations." arXiv preprint arXiv:2011.13456 (2020).](https://arxiv.org/abs/2011.13456) |
+| **24.03.2021** | Florian | [Motta, Alessandro, et al. "Dense connectomic reconstruction in layer 4 of the somatosensory cortex." Science 366.6469 (2019).](https://science.sciencemag.org/content/366/6469/eaay3134) |
+|  |   | [Billeh, Yazan N., et al. "Systematic integration of structural and functional data into multi-scale models of mouse primary visual cortex." Neuron 106.3 (2020): 388-403.](https://www.cell.com/neuron/fulltext/S0896-6273(20)30067-2) |
+|  |   | [Rees, Christopher L., Keivan Moradi, and Giorgio A. Ascoli. "Weighing the evidence in Peters’ rule: does neuronal morphology predict connectivity?." Trends in neurosciences 40.2 (2017): 63-71.](https://www.sciencedirect.com/science/article/abs/pii/S0166223616301758) ([pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5285450/pdf/nihms834918.pdf)) |
 | **17.03.2021** | Dominik | [Kato, Saul, et al. "Global brain dynamics embed the motor command sequence of Caenorhabditis elegans." Cell 163.3 (2015): 656-669.](https://www.sciencedirect.com/science/article/pii/S0092867415011964?via%3Dihub) |
 | **10.03.2021** | Christoph | [Menick, Jacob, et al. "Practical Real Time Recurrent Learning with a Sparse Approximation to the Jacobian." ICLR 2021 (2021).](https://openreview.net/forum?id=q3KSThy2GwB) |
 | **03.03.2021** | Ceca | [Kendall, Jack, et al. "Training End-to-End Analog Neural Networks with Equilibrium Propagation." arXiv preprint arXiv:2006.01981 (2020).](https://arxiv.org/abs/2006.01981) |
