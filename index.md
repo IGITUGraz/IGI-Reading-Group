@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **14.04.2021** | Guozhang | []() |
+| **14.04.2021** | Guozhang | [van de Ven, Gido M., Hava T. Siegelmann, and Andreas S. Tolias. "Brain-inspired replay for continual learning with artificial neural networks." Nature communications 11.1 (2020): 1-14.](https://www.nature.com/articles/s41467-020-17866-2) |
 | **21.04.2021** | Horst | []() |
 | **28.04.2021** | Michael | []() |
 | **05.05.2021** | Ozan | []() |
