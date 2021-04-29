@@ -12,7 +12,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 ## Current presentation cycle
 
-Ceca, Christoph, Dominik, Florian, Franz, Guozhang, Horst, Michael, Ozan, Roland, Romain, Samuel, Špela, Titouan, Thomas L.
+Ceca, Christoph, Dominik, Florian, Franz, Guozhang, Horst, Michael, Ozan, Roland, Romain, Špela, Titouan, Thomas L.
 
 ## Presentations
 
@@ -34,7 +34,7 @@ Presentations should convey the relevant findings from your selected paper with 
 | **05.05.2021** | Ozan | []() |
 | **12.05.2021** | Roland | []() |
 | **17.05.2021** | Romain | []() |
-| **24.05.2021** | Samuel | []() |
+| **24.05.2021** | Špela | []() |
 
 ## Wishlist
 
