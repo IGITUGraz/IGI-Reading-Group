@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **05.05.2021** | Ozan | []() |
+| **05.05.2021** | Ozan | [Xiao, Kai, et al. "Noise or signal: The role of image backgrounds in object recognition." arXiv preprint arXiv:2006.09994 (2020).](https://openreview.net/forum?id=gl3D-xY7wLq) |
 | **12.05.2021** | Roland | []() |
 | **17.05.2021** | Romain | []() |
 | **24.05.2021** | Špela | []() |
