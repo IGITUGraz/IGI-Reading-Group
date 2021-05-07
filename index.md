@@ -31,10 +31,10 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **05.05.2021** | Ozan | [Xiao, Kai, et al. "Noise or signal: The role of image backgrounds in object recognition." arXiv preprint arXiv:2006.09994 (2020).](https://openreview.net/forum?id=gl3D-xY7wLq) |
 | **12.05.2021** | Roland | []() |
-| **17.05.2021** | Romain | []() |
-| **24.05.2021** | Špela | []() |
+| **19.05.2021** | Romain | []() |
+| **26.05.2021** | Špela | []() |
+| **02.06.2021** | Titouan | []() |
 
 ## Wishlist
 
@@ -49,6 +49,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **05.05.2021** | Ozan | [Xiao, Kai, et al. "Noise or signal: The role of image backgrounds in object recognition." arXiv preprint arXiv:2006.09994 (2020).](https://openreview.net/forum?id=gl3D-xY7wLq) |
 | **28.04.2021** | Michael | [Gidon, Albert, et al. "Dendritic action potentials and computation in human layer 2/3 cortical neurons." Science 367.6473 (2020): 83-87.](https://science.sciencemag.org/content/367/6473/83.abstract) |
 | **21.04.2021** | Horst | [Cross, Logan, et al. "Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments." Neuron 109.4 (2021): 724-738.](https://www.sciencedirect.com/science/article/abs/pii/S0896627320308990) |
 | **14.04.2021** | Guozhang | [van de Ven, Gido M., Hava T. Siegelmann, and Andreas S. Tolias. "Brain-inspired replay for continual learning with artificial neural networks." Nature communications 11.1 (2020): 1-14.](https://www.nature.com/articles/s41467-020-17866-2) |
