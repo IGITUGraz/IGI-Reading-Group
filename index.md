@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **12.05.2021** | Roland | []() |
+| **12.05.2021** | Roland | [Mangla, Puneet, et al. "Charting the right manifold: Manifold mixup for few-shot learning." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020.](https://openaccess.thecvf.com/content_WACV_2020/html/Mangla_Charting_the_Right_Manifold_Manifold_Mixup_for_Few-shot_Learning_WACV_2020_paper.html) |
 | **19.05.2021** | Romain | []() |
 | **26.05.2021** | Špela | []() |
 | **02.06.2021** | Titouan | []() |
