@@ -12,7 +12,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 ## Current presentation cycle
 
-Ceca, Christoph, Dominik, Florian, Franz, Guozhang, Horst, Michael, Ozan, Roland, Romain, Špela, Thomas L., Titouan
+Ceca, Christoph, Dominik, Eben, Florian, Guozhang, Horst, Isabel, Max, Michael, Ozan, Roland, Romain, Špela, Thomas L., Titouan
 
 ## Presentations
 
