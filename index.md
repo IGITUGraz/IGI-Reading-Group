@@ -12,7 +12,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 ## Current presentation cycle
 
-Ceca, Christoph, Dominik, Florian, Franz, Guozhang, Horst, Michael, Ozan, Roland, Romain, Špela, Titouan, Thomas L.
+Ceca, Christoph, Dominik, Florian, Franz, Guozhang, Horst, Michael, Ozan, Roland, Romain, Špela, Thomas L., Titouan
 
 ## Presentations
 
@@ -31,10 +31,10 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **12.05.2021** | Roland | [Mangla, Puneet, et al. "Charting the right manifold: Manifold mixup for few-shot learning." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020.](https://openaccess.thecvf.com/content_WACV_2020/html/Mangla_Charting_the_Right_Manifold_Manifold_Mixup_for_Few-shot_Learning_WACV_2020_paper.html) |
 | **19.05.2021** | Romain | []() |
 | **26.05.2021** | Špela | []() |
-| **02.06.2021** | Titouan | []() |
+| **02.06.2021** | Thomas | []() |
+| **09.06.2021** | Titouan | []() |
 
 ## Wishlist
 
@@ -49,6 +49,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **12.05.2021** | Roland | [Mangla, Puneet, et al. "Charting the right manifold: Manifold mixup for few-shot learning." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020.](https://openaccess.thecvf.com/content_WACV_2020/html/Mangla_Charting_the_Right_Manifold_Manifold_Mixup_for_Few-shot_Learning_WACV_2020_paper.html) |
 | **05.05.2021** | Ozan | [Xiao, Kai, et al. "Noise or signal: The role of image backgrounds in object recognition." arXiv preprint arXiv:2006.09994 (2020).](https://openreview.net/forum?id=gl3D-xY7wLq) |
 | **28.04.2021** | Michael | [Gidon, Albert, et al. "Dendritic action potentials and computation in human layer 2/3 cortical neurons." Science 367.6473 (2020): 83-87.](https://science.sciencemag.org/content/367/6473/83.abstract) |
 | **21.04.2021** | Horst | [Cross, Logan, et al. "Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments." Neuron 109.4 (2021): 724-738.](https://www.sciencedirect.com/science/article/abs/pii/S0896627320308990) |
