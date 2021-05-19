@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **19.05.2021** | Romain | []() |
+| **19.05.2021** | Romain | [Rusch, T. Konstantin, and Siddhartha Mishra. "Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies." arXiv preprint arXiv:2010.00951 (2020).](https://openreview.net/forum?id=F3s69XzWOia) |
 | **26.05.2021** | Špela | []() |
 | **02.06.2021** | Thomas | []() |
 | **09.06.2021** | Titouan | []() |
