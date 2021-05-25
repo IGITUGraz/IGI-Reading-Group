@@ -31,10 +31,12 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **19.05.2021** | Romain | [Rusch, T. Konstantin, and Siddhartha Mishra. "Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies." arXiv preprint arXiv:2010.00951 (2020).](https://openreview.net/forum?id=F3s69XzWOia) |
-| **26.05.2021** | Špela | []() |
+| **26.05.2021** | Špela | [Krasheninnikova, Elena, et al. "Reinforcement learning for pricing strategy optimization in the insurance industry." Engineering applications of artificial intelligence 80 (2019): 8-19.](https://www.sciencedirect.com/science/article/pii/S0952197619300107) |
 | **02.06.2021** | Thomas | []() |
 | **09.06.2021** | Titouan | []() |
+| **16.06.2021** | Eben | []() |
+| **23.06.2021** | Isabel | []() |
+| **30.06.2021** | Max | []() |
 
 ## Wishlist
 
@@ -49,6 +51,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **19.05.2021** | Romain | [Rusch, T. Konstantin, and Siddhartha Mishra. "Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies." arXiv preprint arXiv:2010.00951 (2020).](https://openreview.net/forum?id=F3s69XzWOia) |
 | **12.05.2021** | Roland | [Mangla, Puneet, et al. "Charting the right manifold: Manifold mixup for few-shot learning." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020.](https://openaccess.thecvf.com/content_WACV_2020/html/Mangla_Charting_the_Right_Manifold_Manifold_Mixup_for_Few-shot_Learning_WACV_2020_paper.html) |
 | **05.05.2021** | Ozan | [Xiao, Kai, et al. "Noise or signal: The role of image backgrounds in object recognition." arXiv preprint arXiv:2006.09994 (2020).](https://openreview.net/forum?id=gl3D-xY7wLq) |
 | **28.04.2021** | Michael | [Gidon, Albert, et al. "Dendritic action potentials and computation in human layer 2/3 cortical neurons." Science 367.6473 (2020): 83-87.](https://science.sciencemag.org/content/367/6473/83.abstract) |
