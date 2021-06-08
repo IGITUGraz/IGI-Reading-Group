@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **09.06.2021** | Titouan | []() |
+| **09.06.2021** | Titouan | [Rubin, Jonathan E., et al. "The credit assignment problem in cortico‐basal ganglia‐thalamic networks: A review, a problem and a possible solution." European Journal of Neuroscience 53.7 (2021): 2234-2253.](https://onlinelibrary.wiley.com/doi/10.1111/ejn.14745) |
 | **16.06.2021** | Eben | []() |
 | **23.06.2021** | Isabel | []() |
 | **30.06.2021** | Max | []() |
