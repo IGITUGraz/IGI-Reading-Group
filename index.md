@@ -31,8 +31,6 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **09.06.2021** | Titouan | [Rubin, Jonathan E., et al. "The credit assignment problem in cortico‐basal ganglia‐thalamic networks: A review, a problem and a possible solution." European Journal of Neuroscience 53.7 (2021): 2234-2253.](https://onlinelibrary.wiley.com/doi/10.1111/ejn.14745) ([pdf](https://par.nsf.gov/servlets/purl/10196285)) |
-| **16.06.2021** | Eben | []() |
 | **23.06.2021** | Isabel | []() |
 | **30.06.2021** | Max | []() |
 
@@ -49,6 +47,8 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **16.06.2021** | Eben | [Sezener, Eren, et al. "A rapid and efficient learning rule for biological neural circuits." bioRxiv (2021).](https://www.biorxiv.org/content/10.1101/2021.03.10.434756v1.abstract) |
+| **09.06.2021** | Titouan | [Rubin, Jonathan E., et al. "The credit assignment problem in cortico‐basal ganglia‐thalamic networks: A review, a problem and a possible solution." European Journal of Neuroscience 53.7 (2021): 2234-2253.](https://onlinelibrary.wiley.com/doi/10.1111/ejn.14745) ([pdf](https://par.nsf.gov/servlets/purl/10196285)) |
 | **02.06.2021** | Thomas | [Tyulmankov, Danil, Guangyu Robert Yang, and L. F. Abbott. "Meta-learning local synaptic plasticity for continual familiarity detection." bioRxiv (2021).](https://www.biorxiv.org/content/10.1101/2021.03.21.436287v1.abstract) |
 | **26.05.2021** | Špela | [Krasheninnikova, Elena, et al. "Reinforcement learning for pricing strategy optimization in the insurance industry." Engineering applications of artificial intelligence 80 (2019): 8-19.](https://www.sciencedirect.com/science/article/pii/S0952197619300107) |
 | **19.05.2021** | Romain | [Rusch, T. Konstantin, and Siddhartha Mishra. "Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies." arXiv preprint arXiv:2010.00951 (2020).](https://openreview.net/forum?id=F3s69XzWOia) |
