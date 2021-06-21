@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **23.06.2021** | Isabel | []() |
+| **23.06.2021** | Isabel | [Bos, Hannah, Anne-Marie Oswald, and Brent Doiron. "Untangling stability and gain modulation in cortical circuits with multiple interneuron classes." bioRxiv (2020).](https://www.biorxiv.org/content/10.1101/2020.06.15.148114v2) |
 | **30.06.2021** | Max | []() |
 
 ## Wishlist
