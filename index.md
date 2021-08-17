@@ -31,8 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **23.06.2021** | Isabel | [Bos, Hannah, Anne-Marie Oswald, and Brent Doiron. "Untangling stability and gain modulation in cortical circuits with multiple interneuron classes." bioRxiv (2020).](https://www.biorxiv.org/content/10.1101/2020.06.15.148114v2) |
-| **30.06.2021** | Max | []() |
+| **tba** | tba | (next season: starts fall 2021) |
 
 ## Wishlist
 
@@ -47,6 +46,8 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **30.06.2021** | Max | [Payeur, Alexandre, et al. "Burst-dependent synaptic plasticity can coordinate learning in hierarchical circuits." Nature neuroscience (2021): 1-10.](https://www.nature.com/articles/s41593-021-00857-x) |
+| **23.06.2021** | Isabel | [Bos, Hannah, Anne-Marie Oswald, and Brent Doiron. "Untangling stability and gain modulation in cortical circuits with multiple interneuron classes." bioRxiv (2020).](https://www.biorxiv.org/content/10.1101/2020.06.15.148114v2) |
 | **16.06.2021** | Eben | [Sezener, Eren, et al. "A rapid and efficient learning rule for biological neural circuits." bioRxiv (2021).](https://www.biorxiv.org/content/10.1101/2021.03.10.434756v1.abstract) |
 | **09.06.2021** | Titouan | [Rubin, Jonathan E., et al. "The credit assignment problem in cortico‐basal ganglia‐thalamic networks: A review, a problem and a possible solution." European Journal of Neuroscience 53.7 (2021): 2234-2253.](https://onlinelibrary.wiley.com/doi/10.1111/ejn.14745) ([pdf](https://par.nsf.gov/servlets/purl/10196285)) |
 | **02.06.2021** | Thomas | [Tyulmankov, Danil, Guangyu Robert Yang, and L. F. Abbott. "Meta-learning local synaptic plasticity for continual familiarity detection." bioRxiv (2021).](https://www.biorxiv.org/content/10.1101/2021.03.21.436287v1.abstract) |
