@@ -46,6 +46,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **12.10.2021** | Christoph | [Pogodin, Roman, et al. "Towards Biologically Plausible Convolutional Networks." arXiv preprint arXiv:2106.13031 (2021).](https://arxiv.org/abs/2106.13031) |
 | **05.10.2021** | Ceca | [Schuman, Catherine D., et al. "Non-traditional input encoding schemes for spiking neuromorphic systems." 2019 International Joint Conference on Neural Networks (IJCNN). IEEE, 2019.](https://ieeexplore.ieee.org/document/8852139) |
 | **30.06.2021** | Max | [Payeur, Alexandre, et al. "Burst-dependent synaptic plasticity can coordinate learning in hierarchical circuits." Nature neuroscience (2021): 1-10.](https://www.nature.com/articles/s41593-021-00857-x) |
 | **23.06.2021** | Isabel | [Bos, Hannah, Anne-Marie Oswald, and Brent Doiron. "Untangling stability and gain modulation in cortical circuits with multiple interneuron classes." bioRxiv (2020).](https://www.biorxiv.org/content/10.1101/2020.06.15.148114v2) |
