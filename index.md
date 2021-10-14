@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **12.10.2021** | Christoph | tba |
+| **19.10.2021** | Eben | tba |
 
 ## Wishlist
 
