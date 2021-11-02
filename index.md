@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **02.11.2021** | All of us | Discussing own work and recent research |
+| **09.11.2021** | Guozhang| tba |
 
 ## Wishlist
 
@@ -46,7 +46,23 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| **12.10.2021** | Eben | [Bordelon, Blake, and Cengiz Pehlevan. "Population Codes Enable Learning from Few Examples By Shaping Inductive Bias." bioRxiv (2021).](https://www.biorxiv.org/content/10.1101/2021.03.30.437743v2) |
+| **02.11.2021** | *Special session* |   |
+| | Florian | [Raussen, Martin. "Connectivity of spaces of directed paths in geometric models for concurrent computation." arXiv preprint arXiv:2106.11703 (2021).] (https://arxiv.org/abs/2106.11703) |
+| | | [Bronstein, Michael M., et al. "Geometric deep learning: Grids, groups, graphs, geodesics, and gauges." arXiv preprint arXiv:2104.13478 (2021).](https://arxiv.org/abs/2104.13478) |
+| | Romain | [Losonczy, Attila, Judit K. Makara, and Jeffrey C. Magee. "Compartmentalized dendritic plasticity and input feature storage in neurons." Nature 452.7186 (2008): 436-441.](https://www.nature.com/articles/nature06725) |
+| | Ceca | []() | 
+| | Thomas | [Lin, Stephanie, Jacob Hilton, and Owain Evans. "TruthfulQA: Measuring How Models Mimic Human Falsehoods." arXiv preprint arXiv:2109.07958 (2021).](https://arxiv.org/abs/2109.07958) | 
+| | | [Megatron-Turing NLG ](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/) |
+| | | [Power, Alethea, et al. "Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets." ICLR MATH-AI Workshop. 2021.](https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf) |
+| | | [Grewal, K., et al. "Going Beyond the Point Neuron: Active Dendrites and Sparse Representations for Continual Learning." (2021).](https://www.biorxiv.org/content/10.1101/2021.10.25.465651v1) |
+| | | [Pinitas, Kosmas, Spyridon Chavlis, and Panayiota Poirazi. "Dendritic Self-Organizing Maps for Continual Learning." arXiv preprint arXiv:2110.13611 (2021).](https://arxiv.org/abs/2110.13611) |
+| | Max | [Levi, Hila, and Shimon Ullman. "Multi-task learning by a top-down control network." 2021 IEEE International Conference on Image Processing (ICIP). IEEE, 2021.](https://arxiv.org/abs/2002.03335) | 
+| | Isabel | [Yap, Ee-Lynn, et al. "Bidirectional perisomatic inhibitory plasticity of a Fos neuronal network." Nature 590.7844 (2021): 115-121. ](https://www.nature.com/articles/s41586-020-3031-0) | 
+| | Titouan | [Engelhard, Ben, et al. "Specialized coding of sensory, motor and cognitive variables in VTA dopamine neurons." Nature 570.7762 (2019): 509-513.](https://www.nature.com/articles/s41586-019-1261-9#Abs1) | 
+| | Christoph | [Wightman, Ross, Hugo Touvron, and Hervé Jégou. "ResNet strikes back: An improved training procedure in timm." arXiv preprint arXiv:2110.00476 (2021).](https://arxiv.org/abs/2110.00476) | 
+| | Yujie | [Miconi, Thomas, et al. "Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity." arXiv preprint arXiv:2002.10585 (2020).](https://arxiv.org/abs/2002.10585) | 
+| | Guozhang | [Rumyantsev, Oleg I., et al. "Fundamental bounds on the fidelity of sensory cortical coding." Nature 580.7801 (2020): 100-105.](https://www.nature.com/articles/s41586-020-2130-2) | 
+| **19.10.2021** | Eben | [Bordelon, Blake, and Cengiz Pehlevan. "Population Codes Enable Learning from Few Examples By Shaping Inductive Bias." bioRxiv (2021).](https://www.biorxiv.org/content/10.1101/2021.03.30.437743v2) |
 | **12.10.2021** | Christoph | [Pogodin, Roman, et al. "Towards Biologically Plausible Convolutional Networks." arXiv preprint arXiv:2106.13031 (2021).](https://arxiv.org/abs/2106.13031) |
 | **05.10.2021** | Ceca | [Schuman, Catherine D., et al. "Non-traditional input encoding schemes for spiking neuromorphic systems." 2019 International Joint Conference on Neural Networks (IJCNN). IEEE, 2019.](https://ieeexplore.ieee.org/document/8852139) |
 | **30.06.2021** | Max | [Payeur, Alexandre, et al. "Burst-dependent synaptic plasticity can coordinate learning in hierarchical circuits." Nature neuroscience (2021): 1-10.](https://www.nature.com/articles/s41593-021-00857-x) |
