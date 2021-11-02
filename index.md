@@ -47,7 +47,7 @@ Feel free to add papers of interest.
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **02.11.2021** | *Special session* |   |
-| | Florian | [Raussen, Martin. "Connectivity of spaces of directed paths in geometric models for concurrent computation." arXiv preprint arXiv:2106.11703 (2021).] (https://arxiv.org/abs/2106.11703) |
+| | Florian | [Raussen, Martin. "Connectivity of spaces of directed paths in geometric models for concurrent computation." arXiv preprint arXiv:2106.11703 (2021).](https://arxiv.org/abs/2106.11703) |
 | | | [Bronstein, Michael M., et al. "Geometric deep learning: Grids, groups, graphs, geodesics, and gauges." arXiv preprint arXiv:2104.13478 (2021).](https://arxiv.org/abs/2104.13478) |
 | | Romain | [Losonczy, Attila, Judit K. Makara, and Jeffrey C. Magee. "Compartmentalized dendritic plasticity and input feature storage in neurons." Nature 452.7186 (2008): 436-441.](https://www.nature.com/articles/nature06725) |
 | | Ceca | [Flesch, Timo, et al. "Rich and lazy learning of task representations in brains and neural networks." bioRxiv (2021).](https://www.biorxiv.org/content/10.1101/2021.04.23.441128v1) | 
