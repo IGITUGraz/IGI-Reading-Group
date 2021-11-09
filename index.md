@@ -46,6 +46,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **09.11.2021** | Guozhang | [Fischler-Ruiz, Walter, et al. "Olfactory landmarks and path integration converge to form a cognitive spatial map." Neuron (2021).](https://www.cell.com/neuron/fulltext/S0896-6273(21)00728-5) |
 | **02.11.2021** | *Special session* |   |
 | | Florian | [Raussen, Martin. "Connectivity of spaces of directed paths in geometric models for concurrent computation." arXiv preprint arXiv:2106.11703 (2021).](https://arxiv.org/abs/2106.11703) |
 | | | [Bronstein, Michael M., et al. "Geometric deep learning: Grids, groups, graphs, geodesics, and gauges." arXiv preprint arXiv:2104.13478 (2021).](https://arxiv.org/abs/2104.13478) |
