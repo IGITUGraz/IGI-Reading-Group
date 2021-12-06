@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **01.12.2021** | Max | tba |
+| **14.12.2021** | Ozan | tba |
 
 ## Wishlist
 
@@ -46,6 +46,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **01.12.2021** | Max | [Beniaguev, David, Idan Segev, and Michael London. "Single cortical neurons as deep artificial neural networks." Neuron 109.17 (2021): 2727-2739.](https://www.sciencedirect.com/science/article/pii/S0896627321005018?via%3Dihub) |
 | **23.11.2021** | Isabel | [Koay, Sue Ann, et al. "Sequential and efficient neural-population coding of complex task information." bioRxiv (2021): 801654.](https://www.cell.com/neuron/fulltext/S0896-6273(21)00835-7) |
 | **16.11.2021** | Horst | [Kim, Timothy D., et al. "Inferring latent dynamics underlying neural population activity via neural differential equations." International Conference on Machine Learning. PMLR, 2021.](http://proceedings.mlr.press/v139/kim21h.html) |
 | **09.11.2021** | Guozhang | [Fischler-Ruiz, Walter, et al. "Olfactory landmarks and path integration converge to form a cognitive spatial map." Neuron (2021).](https://www.cell.com/neuron/fulltext/S0896-6273(21)00728-5) |
