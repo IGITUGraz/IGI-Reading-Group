@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **14.12.2021** | Ozan | tba |
+| **12.01.2022** | Roland | tba |
 
 ## Wishlist
 
@@ -46,6 +46,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **14.12.2021** | Ozan | [Schott, Lukas, et al. "Visual representation learning does not generalize strongly within the same domain." arXiv preprint arXiv:2107.08221 (2021).](https://arxiv.org/pdf/2107.08221.pdf) |
 | **01.12.2021** | Max | [Beniaguev, David, Idan Segev, and Michael London. "Single cortical neurons as deep artificial neural networks." Neuron 109.17 (2021): 2727-2739.](https://www.sciencedirect.com/science/article/pii/S0896627321005018?via%3Dihub) |
 | **23.11.2021** | Isabel | [Koay, Sue Ann, et al. "Sequential and efficient neural-population coding of complex task information." bioRxiv (2021): 801654.](https://www.cell.com/neuron/fulltext/S0896-6273(21)00835-7) |
 | **16.11.2021** | Horst | [Kim, Timothy D., et al. "Inferring latent dynamics underlying neural population activity via neural differential equations." International Conference on Machine Learning. PMLR, 2021.](http://proceedings.mlr.press/v139/kim21h.html) |
