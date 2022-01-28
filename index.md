@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **18.01.2022** | Romain | tba |
+| **01.02.2022** | Thomas | tba |
 
 ## Wishlist
 
@@ -46,6 +46,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **28.01.2022** | Romain | [Bazargani, Narges, and David Attwell. "Astrocyte calcium signaling: the third wave." Nature neuroscience 19.2 (2016): 182-189.](https://www.nature.com/articles/nn.4201) |
 | **12.01.2022** | Roland | [Lopes, Vasco, et al. "Guided Evolution for Neural Architecture Search." arXiv preprint arXiv:2110.15232 (2021).](https://arxiv.org/pdf/2110.15232.pdf) |
 | **14.12.2021** | Ozan | [Schott, Lukas, et al. "Visual representation learning does not generalize strongly within the same domain." arXiv preprint arXiv:2107.08221 (2021).](https://arxiv.org/pdf/2107.08221.pdf) |
 | **01.12.2021** | Max | [Beniaguev, David, Idan Segev, and Michael London. "Single cortical neurons as deep artificial neural networks." Neuron 109.17 (2021): 2727-2739.](https://www.sciencedirect.com/science/article/pii/S0896627321005018?via%3Dihub) |
