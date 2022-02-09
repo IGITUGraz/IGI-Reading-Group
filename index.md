@@ -46,7 +46,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| **09.02.2022** | Florian | About Monte-Carlo Markov Chains [Fosdick, Bailey K., et al. "Configuring random graph models with fixed degree sequences." Siam Review 60.2 (2018): 315-355.] (https://arxiv.org/abs/1608.00607) |
+| **09.02.2022** | Florian | About Monte-Carlo Markov Chains [Fosdick, Bailey K., et al. "Configuring random graph models with fixed degree sequences." Siam Review 60.2 (2018): 315-355.](https://arxiv.org/abs/1608.00607) |
 | |  | [Young, Jean-Gabriel, et al. "Construction of and efficient sampling from the simplicial configuration model." Physical Review E 96.3 (2017): 032312.] (https://arxiv.org/abs/1705.10298) |
 | |  | [Artzy-Randrup, Yael, and Lewi Stone. "Generating uniformly distributed random networks." Physical Review E 72.5 (2005): 056708.] (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.72.056708) |
 | **01.02.2022** | Thomas | [Beniaguev, D., Shapira, S., Segev, I. & London, M. (n.d.). Multiple Synaptic Contacts combined with Dendritic Filtering enhance Spatio-Temporal Pattern Recognition capabilities of Single Neurons. https://doi.org/10.1101/2022.01.28.478132](https://www.biorxiv.org/content/10.1101/2022.01.28.478132v2) |
