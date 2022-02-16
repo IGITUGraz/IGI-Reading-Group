@@ -6,13 +6,13 @@ title: IGI Reading Group
 
 The IGI Reading Group is the informal Journal Club of [IGI](http://www.igi.tugraz.at) where we meet about once a week and discuss papers that are related to our research.
 
-In the WS 2021/2022, the journal club will take place every Tuesday at 11:00 online (or, if possible, in the IGI seminar room).
+In the SS 2022, the journal club will take place every Tuesday at 10:00 online (or, if possible, in the IGI seminar room).
 
 If you're from outside IGI and would like to attend a particular session, contact `ceca [at] igi.tugraz.at`.
 
 ## Current presentation cycle
 
-Ceca, Christoph, Eben, Florian, Guozhang, Horst, Isabel, Max, Ozan, Roland, Romain, Thomas, Yujie
+Ceca, Christoph, Eben, Florian, Guozhang, Horst, Max, Ozan, Roland, Romain, Thomas, Yujie
 
 ## Presentations
 
