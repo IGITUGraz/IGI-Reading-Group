@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **??.03.2022** | ? | tba |
+| **08.03.2022** | Christoph | tba |
 
 ## Wishlist
 
@@ -46,6 +46,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **01.03.2022** | Ceca | [Kutter, Esther F., et al. "Neuronal codes for arithmetic rule processing in the human brain." Current Biology (2022).](https://www.sciencedirect.com/science/article/pii/S0960982222001166) |
 | **09.02.2022** | Florian | About Monte-Carlo Markov Chains. [Fosdick, Bailey K., et al. "Configuring random graph models with fixed degree sequences." Siam Review 60.2 (2018): 315-355.](https://arxiv.org/abs/1608.00607) |
 | |  | [Young, Jean-Gabriel, et al. "Construction of and efficient sampling from the simplicial configuration model." Physical Review E 96.3 (2017): 032312.](https://arxiv.org/abs/1705.10298) |
 | |  | [Artzy-Randrup, Yael, and Lewi Stone. "Generating uniformly distributed random networks." Physical Review E 72.5 (2005): 056708.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.72.056708) |
