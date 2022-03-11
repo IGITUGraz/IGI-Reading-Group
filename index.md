@@ -42,10 +42,11 @@ Feel free to add papers of interest.
 * Jolivet, Renaud, et al. "Predicting spike timing of neocortical pyramidal neurons by simple threshold models." Journal of computational neuroscience 21.1 (2006): 35-49.
 * Constantinople, Christine M., and Randy M. Bruno. "Deep cortical layers are activated directly by thalamus." Science 340.6140 (2013): 1591-1594.
 
-## Past meetings
+## Past meetings  
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **08.03.2022** | Christoph | [Kleyko, Denis, et al. "Vector symbolic architectures as a computing framework for nanoscale hardware." arXiv preprint arXiv:2106.05268 (2021).](https://arxiv.org/abs/2106.05268) |
 | **01.03.2022** | Ceca | [Kutter, Esther F., et al. "Neuronal codes for arithmetic rule processing in the human brain." Current Biology (2022).](https://www.sciencedirect.com/science/article/pii/S0960982222001166) |
 | **09.02.2022** | Florian | About Monte-Carlo Markov Chains. [Fosdick, Bailey K., et al. "Configuring random graph models with fixed degree sequences." Siam Review 60.2 (2018): 315-355.](https://arxiv.org/abs/1608.00607) |
 | |  | [Young, Jean-Gabriel, et al. "Construction of and efficient sampling from the simplicial configuration model." Physical Review E 96.3 (2017): 032312.](https://arxiv.org/abs/1705.10298) |
