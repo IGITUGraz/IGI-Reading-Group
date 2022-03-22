@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **15.03.2022** | Eben | tba |
+| **29.03.2022** | Guozhang | tba |
 
 ## Wishlist
 
@@ -46,6 +46,8 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **22.03.2022** | Florian | [Riihimäki, Henri. "Simplicial $ q $-connectivity of directed graphs with applications to network analysis." arXiv preprint arXiv:2202.07307 (2022).](https://arxiv.org/abs/2202.07307) |
+| **15.03.2022** | Eben | [Krioukov, Dmitri, et al. "Hyperbolic geometry of complex networks." Physical Review E 82.3 (2010): 036106.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.036106) |
 | **08.03.2022** | Christoph | [Kleyko, Denis, et al. "Vector symbolic architectures as a computing framework for nanoscale hardware." arXiv preprint arXiv:2106.05268 (2021).](https://arxiv.org/abs/2106.05268) |
 | **01.03.2022** | Ceca | [Kutter, Esther F., et al. "Neuronal codes for arithmetic rule processing in the human brain." Current Biology (2022).](https://www.sciencedirect.com/science/article/pii/S0960982222001166) |
 | **09.02.2022** | Florian | About Monte-Carlo Markov Chains. [Fosdick, Bailey K., et al. "Configuring random graph models with fixed degree sequences." Siam Review 60.2 (2018): 315-355.](https://arxiv.org/abs/1608.00607) |
