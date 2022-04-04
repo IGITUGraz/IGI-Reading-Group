@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **19.04.2022** | Max | tba |
+| **26.04.2022** | Max | tba |
 
 ## Wishlist
 
