@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **05.04.2022** | Horst | tba |
+| **12.04.2022** | Max | tba |
 
 ## Wishlist
 
@@ -47,6 +47,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **05.04.2022** | Horst | [Banino, Andrea, Jan Balaguer, and Charles Blundell. "Pondernet: Learning to ponder." arXiv preprint arXiv:2107.05407 (2021).](https://arxiv.org/abs/2107.05407)|
 | **29.03.2022** | Guozhang | [Iyer, Abhiram, et al. "Avoiding Catastrophe: Active Dendrites Enable Multi-Task Learning in Dynamic Environments." arXiv preprint arXiv:2201.00042 (2021).](https://arxiv.org/abs/2201.00042) |
 | **22.03.2022** | Florian | [Riihimäki, Henri. "Simplicial $ q $-connectivity of directed graphs with applications to network analysis." arXiv preprint arXiv:2202.07307 (2022).](https://arxiv.org/abs/2202.07307) |
 | **15.03.2022** | Eben | [Krioukov, Dmitri, et al. "Hyperbolic geometry of complex networks." Physical Review E 82.3 (2010): 036106.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.036106) |
