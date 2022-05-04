@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **03.05.2022** | Max | tba |
+| **10.05.2022** | Roland | tba |
 
 ## Wishlist
 
@@ -47,6 +47,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **04.05.2022** | Max | [Ito, Takuya, et al. "Constructing neural network models from brain data reveals representational transformations linked to adaptive behavior." Nature communications 13.1 (2022): 1-16.](https://www.nature.com/articles/s41467-022-28323-7)|
 | **27.04.2022** | Ozan | [Jain, Saachi, et al. "Missingness Bias in Model Debugging." arXiv preprint arXiv:2204.08945 (2022).](https://arxiv.org/abs/2204.08945)|
 | **05.04.2022** | Horst | [Banino, Andrea, Jan Balaguer, and Charles Blundell. "Pondernet: Learning to ponder." arXiv preprint arXiv:2107.05407 (2021).](https://arxiv.org/abs/2107.05407)|
 | **29.03.2022** | Guozhang | [Iyer, Abhiram, et al. "Avoiding Catastrophe: Active Dendrites Enable Multi-Task Learning in Dynamic Environments." arXiv preprint arXiv:2201.00042 (2021).](https://arxiv.org/abs/2201.00042) |
