@@ -12,7 +12,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 
 ## Current presentation cycle
 
-Ceca, Christoph, Florian, Guozhang, Horst, Max, Ozan, Roland, Romain, Thomas, Yujie
+Ceca, Christoph, Florian, Guozhang, Horst, Max, Ozan, Roland, Romain, Thomas
 
 ## Presentations
 
@@ -31,7 +31,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **10.05.2022** | Roland | tba |
+| **20.05.2022** | Thomas | tba |
 
 ## Wishlist
 
@@ -47,6 +47,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **10.05.2022** | Roland | [Baevski, Alexei, et al. "Data2vec: A general framework for self-supervised learning in speech, vision and language." arXiv preprint arXiv:2202.03555 (2022).](https://arxiv.org/pdf/2202.03555.pdf)|
 | **04.05.2022** | Max | [Ito, Takuya, et al. "Constructing neural network models from brain data reveals representational transformations linked to adaptive behavior." Nature communications 13.1 (2022): 1-16.](https://www.nature.com/articles/s41467-022-28323-7)|
 | **27.04.2022** | Ozan | [Jain, Saachi, et al. "Missingness Bias in Model Debugging." arXiv preprint arXiv:2204.08945 (2022).](https://arxiv.org/abs/2204.08945)|
 | **05.04.2022** | Horst | [Banino, Andrea, Jan Balaguer, and Charles Blundell. "Pondernet: Learning to ponder." arXiv preprint arXiv:2107.05407 (2021).](https://arxiv.org/abs/2107.05407)|
