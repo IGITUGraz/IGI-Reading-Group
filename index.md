@@ -1,6 +1,3 @@
----
-title: IGI Reading Group
----
 
 # IGI Reading Group
 
