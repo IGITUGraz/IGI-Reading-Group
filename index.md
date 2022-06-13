@@ -28,7 +28,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **13.06.2022** | Romain | tba |
+| **14.06.2022** | Romain | tba |
 
 ## Wishlist
 
@@ -46,7 +46,7 @@ Feel free to add papers of interest.
 
 | Date           | Moderator | Paper                                                                                                                                                                                                          
 | -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| **13.06.2022** | Romain | [Reed, Scott, et al. "A generalist agent." arXiv preprint arXiv:2205.06175 (2022).](https://arxiv.org/abs/2205.06175)|
+| **14.06.2022** | Romain | [Reed, Scott, et al. "A generalist agent." arXiv preprint arXiv:2205.06175 (2022).](https://arxiv.org/abs/2205.06175)|
 | **20.05.2022** | Thomas | [Flesch, Timo, et al. "Modelling continual learning in humans with Hebbian context gating and exponentially decaying task signals." arXiv preprint arXiv:2203.11560 (2022).](https://arxiv.org/abs/2203.11560)|
 | **10.05.2022** | Roland | [Baevski, Alexei, et al. "Data2vec: A general framework for self-supervised learning in speech, vision and language." arXiv preprint arXiv:2202.03555 (2022).](https://arxiv.org/pdf/2202.03555.pdf)|
 | **04.05.2022** | Max | [Ito, Takuya, et al. "Constructing neural network models from brain data reveals representational transformations linked to adaptive behavior." Nature communications 13.1 (2022): 1-16.](https://www.nature.com/articles/s41467-022-28323-7)|
