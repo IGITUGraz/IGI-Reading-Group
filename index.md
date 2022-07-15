@@ -28,7 +28,7 @@ Presentations should convey the relevant findings from your selected paper with 
 
 | Date           | Moderator | Paper  |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **14.06.2022** | Romain | tba |
+| **Fall 2022** | tba | tba |
 
 ## Wishlist
 
