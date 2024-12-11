@@ -1,4 +1,3 @@
-
 # IGI Reading Group
 
 The IGI Reading Group is the informal Journal Club of [IGI](http://www.igi.tugraz.at) where we meet about once a week and discuss papers that are related to our research.
@@ -19,6 +18,7 @@ If you're from outside IGI and would like to attend a particular session, contac
 8. Thomas
 9. Horst
 10. Florian
+11. Alice
 
 
 ## Presentations
